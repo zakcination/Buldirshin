@@ -14,6 +14,22 @@
 | Ү-06 | Бұқарға | `derekter/umbetey-tileuuly/06-buqarga.md` |
 | Ү-07 | Бөгенбай өліміне | `derekter/umbetey-tileuuly/07-bogenbay-olimine.md` |
 
+### Бұқар жырау корпусы (2-кезеңде қосылды)
+
+| Шифр | Топтама | Файл |
+|---|---|---|
+| Б-00 | Жырау паспорты | `derekter/buqar-zhyrau/00-zhyrau-passporty.md` |
+| Б-01 | Бөгенбай қазасын естірту (екі нұсқа) | `derekter/buqar-zhyrau/01-bogenbay-estirtu-eki-nusqa.md` |
+| Б-02 | Абылай ханға арнаулар (8 мәтін) | `derekter/buqar-zhyrau/02-abylay-hanga-arnaular.md` |
+| Б-03 | Жоңғар және шүршіт соғысы (6 мәтін) | `derekter/buqar-zhyrau/03-zhongar-shurshit-sogysy.md` |
+| Б-04 | Болжау жырлары (4 мәтін) | `derekter/buqar-zhyrau/04-bolzhau-zhyrlary.md` |
+| Б-05 | Толғаулар мен нақылдар | `derekter/buqar-zhyrau/05-tolgaular-nakyldar.md` |
+| Б-06 | Жас, кәрілік, табиғат | `derekter/buqar-zhyrau/06-zhas-karilik-tabigat.md` |
+
+**Мәтін ішіндегі жинаушылар (мәтіннің өзінде көрсетілген):**
+- «Атам қазақ болғалы» — «Ел аузынан жазып алған **Шаймерден Торайғыров**»
+- «Егер шүршіт қаптаса» — өзге нұсқасы **Г.Н.Потанин** жинағында
+
 ## ІІ. Ғаламтор дереккөздері (тексеру нысаны)
 
 ### Энциклопедиялық
@@ -25,6 +41,15 @@
 - [Қабанбай батыр — Уикипедия (kk)](https://kk.wikipedia.org/wiki/Қабанбай_батыр)
 - [Шақшақ Жәнібек батыр — Уикипедия (kk)](https://kk.wikipedia.org/wiki/Шақшақ_Жәнібек_батыр) — T-6.
 - [Құттыбай — Уикипедия (kk)](https://kk.wikipedia.org/wiki/Құттыбай) — T-6.
+
+### 2-кезеңде тексерілген көздер
+- [Бұқар жырау Қалқаманұлы — Уикипедия (kk)](https://kk.wikipedia.org/wiki/Бұқар_жырау_Қалқаманұлы) — Б-00. *Даталар: 1668–1781 / 1693–1787 — екі нұсқа.*
+- [Қожаберген жырау — Уикипедия (kk)](https://kk.wikipedia.org/wiki/Қожаберген_жырау) — T-37.
+- [«Қос Қожаберген және "Елім-ай" әні туралы», Abai.kz](https://abai.kz/post/77986) — T-37. *С.Қосанның «жасанды дүние» деген бағасы осы мақалада келтірілген.*
+- [«Қожаберген жырау "Елім-ай" дастанына – 300 жыл», Egemen Qazaqstan](https://egemen.kz/article/337530-qodgabergen-dgyrau-elim-ay-dastanyna-–-300-dgyl) — T-37 (қарсы жақ).
+- [«Жыраулар поэзиясындағы жер-су атаулары», Әдебиет порталы](https://adebiportal.kz/kz/news/view/zyraular-poeziiasyndagy-zer-su-ataulary__10000413) — T-23/24 (Ақшәулі тауы).
+- [Жасыбай (көл) — Уикипедия (kk)](https://kk.wikipedia.org/wiki/Жасыбай_(көл)) — T-36.
+- [«Жасыбай батыр», Alashainasy.kz](https://alashainasy.kz/kazak_tarihy/jasyibay-batyir-71215/) — T-36 (Ә.Марғұлан деректемесі, 1741 ж. Баянауыл шайқасы).
 
 ### Баспасөз және порталдар
 - [«Ел қорғаны ер Бөгенбай», Egemen Qazaqstan, 01.02.2023](https://egemen.kz/article/334265-el-qorghany-er-bogenbay) — T-12, T-13, T-20.
