@@ -51,6 +51,14 @@
 - [Жасыбай (көл) — Уикипедия (kk)](https://kk.wikipedia.org/wiki/Жасыбай_(көл)) — T-36.
 - [«Жасыбай батыр», Alashainasy.kz](https://alashainasy.kz/kazak_tarihy/jasyibay-batyir-71215/) — T-36 (Ә.Марғұлан деректемесі, 1741 ж. Баянауыл шайқасы).
 
+### 3-кезеңде тексерілген көздер (машиналық есеп аудиті)
+- [«Қазақ батырларының тағдыры. Қаракерей Қабанбай», Massaget.kz](https://massaget.kz/akberen/kazak-batyirlaryinyin-tagdyiryi-karakerey-kabanbay--46933/) — Қабанбай даталарының З.Сәнікұлы есептеуінен шыққанын растайды.
+- [Жәнібек батыр Бердәулетұлы — Уикипедия (kk)](https://kk.wikipedia.org/wiki/Жәнібек_Бердәулетұлы_(батыр)) — T-6, Керей Ер Жәнібек.
+- [«Ер Жәнібек аты ұлықталды», Egemen Qazaqstan](https://egemen.kz/article/33662-er-zhanibek-aty-ulyqtaldy) — T-6.
+- [«Қалбатау ауылында Ер Жәнібектің мемориалдық кешені ашылды», Inform.kz](https://kaz.inform.kz/news/kalbatau-auylynda-kazak-batyry-er-zhanibektin-memorialdyk-kesheni-ashyldy_a2199651/) — T-6.
+- [«БАБАЛАР СӨЗІ: Бөгенбай батыр», Inform.kz](https://kaz.inform.kz/news/babalar-sozi-bogenbay-batyr_a2762921/) — T-12: қаза 1775 ж. мамырда, Торғайдың Сілетіге құяр тұсында.
+- [Бөгенбай батыр кешені, Ruh.kz](https://ruh.kz/bogenbai-batyrdyn-atymen-bailanysty-keshen-jerlengen-jeri-stelasy-jane-tarihi-muzeii_17353/) — T-20: 1991 ж. музей мен стела, 2009 ж. капсула.
+
 ### Баспасөз және порталдар
 - [«Ел қорғаны ер Бөгенбай», Egemen Qazaqstan, 01.02.2023](https://egemen.kz/article/334265-el-qorghany-er-bogenbay) — T-12, T-13, T-20.
 - [«Абылай хан заманындағы қазақ-қырғыз қарым-қатынастарының тарихынан», Qamshy.kz](https://qamshy.kz/kz/article/33447-abylay-khan-zamanyndaghy-qazaq-qyrghyz-qarym-qatynastarynynh-tarikhynan) — T-9, T-10, T-11.
