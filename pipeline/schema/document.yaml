@@ -1,0 +1,60 @@
+# Сақталатын мәтін жазбасының схемасы
+# Әр өріс — «бұл дерек қайдан?» деген сұраққа жауап беру үшін.
+# Дереккөзі жоғалған мәтін V деңгейге түседі, яғни дәлел ретінде жарамсыз.
+
+document:
+  # --- бірегейлендіру ---
+  id: str                 # umbetey/bes-gasyr-1989/p142
+  source_id: str          # sources.yaml ішіндегі кілт
+
+  # --- басылым паспорты ---
+  edition:
+    title: str            # «Бес ғасыр жырлайды»
+    volume: str|null
+    year: int
+    publisher: str|null
+    city: str|null
+    compiler: str|null    # құрастырушы — текстология үшін маңызды
+    isbn: str|null
+
+  # --- нақты орны ---
+  page: int|list[int]
+  scan_url: str|null      # тұрақты сілтеме
+  local_path: str         # raw/ ішінде, репозиторийге кірмейді
+
+  # --- мазмұн паспорты (репозиторийдегі мәтін паспортымен бірдей) ---
+  work:
+    author: str           # Үмбетей Тілеуұлы
+    title: str            # Бөгенбай қазасын Абылай ханға естірту
+    genre: str            # естірту / толғау / арнау / аңыз / күй аңызы
+    addressee: str|null
+    approx_year: str|null
+
+  # --- OCR тізбегі ---
+  ocr:
+    engine: str           # tesseract-5.3 / qwen-vl / ...
+    lang: str             # kaz / kaz_arab
+    script: str           # cyrillic | arabic | latin
+    confidence: float|null
+    human_verified: bool  # Б арнасы үшін МІНДЕТТІ true болуы керек
+    verified_by: str|null
+    verified_at: date|null
+
+  # --- дереккөздік баға ---
+  level: str              # I|II|III|IV|V — ADISTEME.md бойынша
+  copyright_status: str   # public_domain | in_copyright | unknown
+  storage: str            # derived (ашық) | raw_only (жабық)
+
+  # --- бақылау ---
+  retrieved_at: datetime
+  checksum: str           # бастапқы файлдың sha256
+  lint:
+    mixed_script: int     # kaz_lint нәтижесі
+    notes: list[str]
+
+# --- Ережелер ---
+rules:
+  - "script: arabic болса, human_verified: true болмайынша level: IV|III берілмейді"
+  - "copyright_status: in_copyright болса, storage: raw_only; derived/ ішіне тек
+     дәйексөз бен метадерек шығады"
+  - "scan_url мен page екеуі де жоқ болса, жазба қабылданбайды"

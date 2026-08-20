@@ -1,0 +1,10 @@
+
+# --- Дереккөз құбыры ---
+# Жүктелген скандар мен толық OCR мәтіні репозиторийге ЕШҚАШАН кірмейді:
+# басым бөлігі авторлық құқықпен қорғалған. Қараңыз pipeline/README.md, §2.
+pipeline/raw/
+pipeline/**/*.pdf
+pipeline/**/*.tif
+pipeline/**/*.png
+pipeline/**/*.jpg
+pipeline/**/ocr_full/

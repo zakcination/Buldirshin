@@ -1,0 +1,74 @@
+# Нысан тізілімі — қай қордан не керек.
+# status: planned | requested | permitted | fetched | done | blocked
+# Ешбір жол «істелді» деп белгіленбейді, нақты тексерілмейінше.
+
+sources:
+  kazneb:
+    name: Қазақстанның ұлттық электрондық кітапханасы
+    url: https://kazneb.kz/
+    holdings: 72601 PDF (қазақ, орыс, ағылшын)
+    api: none_documented
+    robots_checked: false          # ← бірінші кезекте
+    tos_checked: false
+    access_plan: |
+      Парсер жазар алдында ресми хат жіберу: зерттеу мақсаты, қажет басылымдар
+      тізімі, деректің қалай сақталатыны. Бұл — ең арзан әрі қауіпсіз жол.
+    status: planned
+
+  nabrk:
+    name: ҚР Ұлттық академиялық кітапханасы
+    url: https://nabrk.kz/
+    api: unknown
+    robots_checked: false
+    status: planned
+
+  auezov_institute:
+    name: М.О.Әуезов атындағы Әдебиет және өнер институты, қолжазба қоры
+    url: null
+    note: |
+      Үмбетей мұрасын қағазға түсірген Аманжол Әлжанұлы осы қорға тапсырған
+      (adebiportal дерегі). T-6 жауабы осы қорда болуы ықтимал.
+      Онлайн қолжетімділігі белгісіз — жеке сұраныс керек шығар.
+    status: planned
+    priority: high
+
+wanted:
+  - id: bes-gasyr-1989
+    title: Бес ғасыр жырлайды
+    year: 1989
+    why: Үмбетей мен Бұқар мәтіндерінің канондық нұсқасы; T-6, T-19
+    script: cyrillic
+    channel: A
+    copyright: in_copyright
+    priority: 1
+
+  - id: mashhur-zhusip-qolzhazba
+    title: Мәшһүр Жүсіп Көпейұлы қолжазбалары
+    why: T-6 (Жәнібек), Бөгенбай шежіресі, Абылайдың жастық шағы
+    script: arabic          # төте жазу — OCR CER ~35%
+    channel: B              # адам тексеруі МІНДЕТТІ
+    copyright: likely_public_domain
+    priority: 1
+
+  - id: sanikuly-1991
+    title: Қаракерей Қабанбай (З.Сәнікұлы, Б.Садықанұлы)
+    year: 1991
+    publisher: Жазушы
+    why: Қабанбай даталарының (1692–1770) бастапқы негізі — T-Q1
+    script: cyrillic
+    channel: A
+    priority: 2
+
+  - id: aqberen
+    title: Ақберен
+    why: Ақтамберді, Үмбетей нұсқалары
+    script: cyrillic
+    channel: A
+    priority: 2
+
+  - id: zhubanov-gasyrlar-pernesi
+    title: Ғасырлар пернесі (А.Жұбанов)
+    why: Күй аңыздары — derekter/kuiler/ әлі бос
+    script: cyrillic
+    channel: A
+    priority: 3
