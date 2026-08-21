@@ -1,0 +1,297 @@
+# Топоним сөздігі (gazetteer) — біздің корпуста кездесетін жер-су атаулары.
+#
+# Неге керек: KazNERD теледидар жаңалығында оқытылған, көне топонимде әлсіз
+# (LOC Recall 65%). «Ақшәулі», «Абыралы», «Үргеніш» сияқты атаулар жаңалық
+# мәтінінде кездеспейді, сондықтан модель оларды танымайды.
+#
+# status: расталған | болжам | анықталмаған
+# Әр жазба тексеру тізіліміне сілтейді (t: өрісі), болса.
+
+topoyms:
+
+  # ── Бөгенбай жорығының картасы (T-16/17, T-23/24) ──
+  - id: aqshauli
+    canon: Ақшәулі
+    variants: [Ақшәуліге, Ақшәулінің, Ақшәулің, Ақшәуілің]
+    type: тау
+    modern: Тарбағатай жотасының солтүстік-батысы, 1618 м, Абай облысы, Үржар ауданы
+    status: расталған
+    t: T-23/T-24
+    note: Үмбетей мен Бұқарда қатар аталады — екі жыраудың сәйкестігі
+
+  - id: tarbagatai
+    canon: Тарбағатай
+    variants: [Тарбағатайдың, Тарбағатайдан]
+    type: жота
+    status: расталған
+    t: T-23
+
+  - id: qara-ertis
+    canon: Қара Ертіс
+    variants: [Қара Ертістен, Ертістен, Ертіс]
+    type: өзен
+    status: расталған
+    t: T-17
+
+  - id: altai
+    canon: Алтай
+    variants: [Алтайға, Алтайдан, Алтай тауға]
+    type: тау
+    status: расталған
+    t: T-17
+
+  - id: qozy-mangyraq
+    canon: Қозы Маңырақ
+    variants: [Қозы Маңрақ]
+    type: тау
+    modern: Тарбағатай өңірі
+    status: расталған
+    t: T-16
+
+  - id: qoi-mangyraq
+    canon: Қой Маңырақ
+    variants: [Қой Маңрақ]
+    type: тау
+    modern: Тарбағатай өңірі
+    status: расталған
+    t: T-16
+
+  - id: bayanauyl
+    canon: Баянауыл
+    variants: [Баянаула, Баянауылда]
+    type: тау
+    modern: Павлодар облысы
+    status: расталған
+    t: T-16
+
+  - id: qyzyltau
+    canon: Қызылтау
+    variants: [Қызылтауда]
+    type: тау
+    status: расталған
+    t: T-16
+
+  - id: abyraly
+    canon: Абыралы
+    variants: [Абыралыда]
+    type: өңір
+    modern: Абай облысы
+    status: расталған
+    t: T-16
+
+  - id: shyngystau
+    canon: Шыңғыстау
+    variants: [Шыңғыстауда]
+    type: тау
+    status: расталған
+    t: T-16
+
+  - id: borli
+    canon: Бөрлі
+    variants: [Борлы, Бөрлі көл, Борлы көліңнен, Бөрлі көлінен]
+    type: көл
+    status: анықталмаған
+    t: T-24
+    note: Екі жырауда да аталады, бірақ қазіргі картадан табылмады
+
+  # ── Бөгенбайдың қазасы мен жерленуі (T-12, T-20) ──
+  - id: sileti
+    canon: Сілеті
+    variants: [Сілетіге, Сілетінің]
+    type: өзен
+    status: расталған
+    t: T-12
+  - id: torgai-sileti
+    canon: Торғай
+    variants: [Торғайдың, Торғай өзені]
+    type: өзен
+    status: расталған
+    t: T-12
+    note: НАЗАР АУДАРЫҢЫЗ — бұл батыстағы Торғай ӨҢІРІ емес, Сілетіге құятын
+      жергілікті өзен. Уикипедиядағы шатасу осыдан
+  - id: qorzhynkol
+    canon: Қоржынкөл
+    type: көл
+    modern: Ерейментау ауданы
+    status: расталған
+    t: T-12
+  - id: ereimentau
+    canon: Ерейментау
+    variants: [Ерейментауда, Ереймен]
+    type: тау / аудан
+    status: расталған
+    t: T-20
+  - id: maltabar
+    canon: Малтабар
+    type: ауыл
+    modern: Ақмола облысы, Ерейментау ауданы
+    status: расталған
+    t: T-20
+  - id: turkistan
+    canon: Түркістан
+    variants: [Түркістанға, Түркістанда, Түркістанның]
+    type: қала
+    status: расталған
+    t: T-20
+    note: Қожа Ахмет Ясауи кесенесі — Бөгенбайдың жерленген жері
+
+  # ── Абылайдың өмірбаяны (T-1, T-4) ──
+  - id: urgenish
+    canon: Үргеніш
+    variants: [Үргеніштен, Үргенішке]
+    type: қала
+    modern: Хорезм өңірі, Өзбекстан
+    status: расталған
+    t: T-1
+  - id: tashken
+    canon: Тәшкен
+    variants: [Тәшкенде, Тәшкент, Ташкент]
+    type: қала
+    status: расталған
+    t: T-4
+  - id: saryarqa
+    canon: Сарыарқа
+    variants: [Сарыарқаны, Сарыарқада, Сарыарқаға]
+    type: өңір
+    status: расталған
+    t: T-1
+
+  # ── Қырғыз жорығы, Бұқар корпусы ──
+  - id: ush-qarqara
+    canon: Үш Қарқара
+    variants: [Қарқара]
+    type: өңір
+    status: расталған
+  - id: koktobe
+    canon: Көктөбе
+    type: төбе
+    status: расталған
+  - id: alatau
+    canon: Алатау
+    variants: [Алатаудай, Алатаудың]
+    type: тау
+    status: расталған
+  - id: qaratau
+    canon: Қаратау
+    variants: [Қаратаудың]
+    type: тау
+    status: расталған
+  - id: syrdariya
+    canon: Сырдария
+    variants: [Сырдарияның, Сыр, Сырдан]
+    type: өзен
+    status: расталған
+  - id: sarysu
+    canon: Сарысу
+    variants: [Сарысуды]
+    type: өзен
+    status: расталған
+  - id: shu
+    canon: Шу
+    type: өзен
+    status: расталған
+  - id: zhideli-baisyn
+    canon: Жиделібайсын
+    variants: [Жиделібайсынға]
+    type: аңыздық жер
+    status: расталған
+
+  # ── Бұқардың болжау қабаты (T-40) — XIX ғ. бекіністері ──
+  - id: kokshetau
+    canon: Көкшетау
+    type: тау / қала
+    status: расталған
+    t: T-40
+  - id: aqmola
+    canon: Ақмола
+    type: бекініс
+    modern: қазіргі Астана
+    status: расталған
+    t: T-40
+    note: 1830 ж. салынған — Бұқардың көзі тірісінде болмаған
+  - id: qaraotkel
+    canon: Қараөткел
+    type: өткел / бекініс
+    status: расталған
+    t: T-40
+  - id: atbasar
+    canon: Атбасар
+    variants: [Атбасар мен]
+    type: бекініс
+    status: расталған
+    t: T-40
+    note: 1846 ж. салынған
+  - id: qarqaraly
+    canon: Қарқаралы
+    type: тау / бекініс
+    status: расталған
+    t: T-40
+    note: 1824 ж. салынған
+  - id: ulytau
+    canon: Ұлытау
+    type: тау
+    status: расталған
+  - id: sozaq
+    canon: Созақ
+    variants: [Созақтан]
+    type: қала
+    status: расталған
+  - id: nura
+    canon: Нұра
+    variants: [Нұраның]
+    type: өзен
+    status: расталған
+  - id: esil
+    canon: Есіл
+    variants: [Есілде]
+    type: өзен
+    status: расталған
+  - id: qalqotan
+    canon: Қалқотан
+    type: өзен
+    status: болжам
+  - id: zharqaq
+    canon: Жарқақ
+    type: жер
+    status: болжам
+  - id: kokmuryn
+    canon: Көкмұрын
+    type: жер
+    status: болжам
+  - id: sabantau
+    canon: Сабантау
+    variants: [Сабантаудан]
+    type: тау
+    status: болжам
+
+  # ── Әкімшілік-этникалық бірліктер ──
+  # Топоним емес, бірақ біздің зерттеуде жер-су атауымен бірдей рөл атқарады:
+  # ру-тегі мен қоныс мәселесі осы бірліктер арқылы өрнектеледі (T-18, T-26).
+  - id: orta-zhuz
+    canon: Орта жүз
+    variants: [Орта жүзде, Орта жүзден, Ормандай көп Орта жүз]
+    type: жүз
+    status: расталған
+    t: T-26
+  - id: uly-zhuz
+    canon: Ұлы жүз
+    type: жүз
+    status: расталған
+  - id: kishi-zhuz
+    canon: Кіші жүз
+    type: жүз
+    status: расталған
+  - id: ush-zhuz
+    canon: үш жүз
+    variants: [үш жүзден, Үш жүздің, үш жүздің]
+    type: жүз
+    status: расталған
+    t: T-5
+    note: «Тоқсан жақсы үш жүзден» — біздің ең берік A деңгейлі дәлеліміз
+
+  # ── Аңыздағы жерлер ──
+  - id: aula-tau
+    canon: Аула тау
+    type: тау
+    status: анықталмаған
+    note: Ер Жәнібек аңызында — «Таласы Аула тау болды»
