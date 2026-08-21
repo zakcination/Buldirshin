@@ -111,8 +111,12 @@ def main():
         preds_dump[tid] = {k: sorted(v) for k, v in by_type.items()}
 
         print(f"\n{'='*62}\n{tid}\n{'='*62}")
-        for typ, keys in (("PER", ("PERSON",)), ("LOC", ("LOCATION", "GPE"))):
+        for typ, keys in (("PER", ("PERSON",)),
+                          ("LOC", ("LOCATION", "GPE")),
+                          ("NUM", ("CARDINAL", "DATE"))):
             g = ann.get(typ, [])
+            if typ == "NUM" and not g:      # мәтінде сан дерегі жоқ болса, өткіземіз
+                continue
             cand = set()
             for k, v in by_type.items():
                 if any(x in k.upper() for x in keys):
