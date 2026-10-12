@@ -1,0 +1,1291 @@
+# Жыраулар тізілімі — машинаға оқылатын қабат
+#
+# ҚАЙДАН: zertteu/zhyraular/zhyraular-tizimi.md (kk.wikipedia, 2026-08-19)
+# ДЕҢГЕЙІ: бәрі C — Уикипедия жобаның әдістемесі бойынша V деңгей,
+#          яғни ДӘЛЕЛ ЕМЕС, тексеру нысаны. Әр жазба тексерілуі тиіс.
+# СХЕМА: zertteu/tizilim/00-shema.md §5
+#
+# sang_about / contemporary_of өрістері 01-zamanhat-zhuptar.md нәтижесінен
+# толтырылады. status «зерттелген» болуы үшін бастапқы дереккөз керек.
+
+zhyraular:
+- id: ketbuga
+  name: Кетбұға
+  dates:
+    raw: 1185–1260
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Найман, Терістаңбалы-Бағаналы
+    level: C
+  region: Орта жүз
+  school: Ең көне қабат
+  links_raw: Әкесі Домбауыл; інісі Келбұға; ұлы Батыл. «Шаджарат ат-түрік» дерегі
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: sypyra-zhyrau
+  name: Сыпыра жырау
+  dates:
+    raw: XIV ғ.
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Алшын, Кете
+    level: C
+  region: Ноғайлы
+  school: Ноғайлы-эпос қабаты
+  links_raw: Тоқтамыс пен Едіге тұсы. Мұрын жырау өзін оның **ұрпағымын** деген
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: asan-qaygy-sabituly
+  name: Асан қайғы Сәбитұлы
+  dates:
+    raw: XIV ғ. соңы – XV ғ. басы
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Әкесі Сәбит
+    level: C
+  region: Сыр, Арал
+  school: Хандық кеңесші дәстүрі
+  links_raw: Әз Жәнібек ханның ақылшысы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qaztugan-suyinishuly
+  name: Қазтуған Сүйінішұлы
+  dates:
+    raw: XV ғ. (мақалада XVII ғ.)
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Ноғай мырзасы, Едіге тұқымы
+    level: C
+  region: Еділ, Ноғай ордасы
+  school: Ноғайлы жорық жырауы
+  links_raw: 'Шежіресі: Едіге–Нұраддин–Уаққас–**Мұса**–Ысмайыл–Дінбай–Тінікей–Абдолла–Сүйініш–Қазтуған'
+  in_wikipedia_category: false
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: shalkiiz-tilenshiuly
+  name: Шалкиіз Тіленшіұлы
+  dates:
+    raw: 1465–1560
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Едіге тұқымы (Мұса би ұрпағы)
+    level: C
+  region: Ноғай ордасы
+  school: Ноғайлы-қазақ өтпелі қабаты
+  links_raw: Темір бидің, Мамай бидің, Хақназар ханның кеңесшісі
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: dospambet-zhyrau
+  name: Доспамбет жырау
+  dates:
+    raw: 1490–1523
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Азау, Кіші Ноғай ордасы
+  school: Ноғайлы жорық жырауы
+  links_raw: Кіші Ноғай ордасының қолбасшысы; ұрыста қаза тапқан
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: zhiembet-zhyrau
+  name: Жиембет жырау
+  dates:
+    raw: 1570/75–1643
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Алшын, Байұлы-Тана
+    level: C
+  region: Батыс Қазақстан
+  school: Хан сарайы жырауы
+  links_raw: Есім ханның бас биі әрі батыры; 1620 ж. ойратпен соғыс
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: margasqa-zhyrau
+  name: Марғасқа жырау
+  dates:
+    raw: XVII ғ. (жылы белгісіз)
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Найман, Матай
+    level: C
+  region: Орта жүз
+  school: Хан сарайы жырауы
+  links_raw: Есім ханның жорық жырауы; 1627 ж. Тұрсын хан бүлігі
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qozhabergen-zhyrau
+  name: Қожаберген жырау
+  dates:
+    raw: 1663–1763
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Керей, Ашамайлы-Көшебе
+    level: C
+  region: Солтүстік Қазақстан
+  school: «Елім-ай» дәстүрі (даулы)
+  links_raw: Әкесі Толыбай сыншы; анасы Ақбілек — Арғын Айдабол бидің қызы; Тәуке ханның елшісі
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: buqar-zhyrau-qalqamanuly
+  name: Бұқар жырау Қалқаманұлы
+  dates:
+    raw: 1668–1781 (басқа нұсқа 1693–1787)
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Арғын, Сүйіндік-Қаржас
+    level: C
+  region: Сарыарқа
+  school: Абылай ордасы
+  links_raw: Абылай ханның ақылшысы; Үмбетеймен дос-құрдас
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: aqtamberdi-saryuly
+  name: Ақтамберді Сарыұлы
+  dates:
+    raw: 1675–1768
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Найман, Қаракерей-Сыбан
+    level: C
+  region: Қаратау → Абай ауданы
+  school: Көне жыраулық мектеп
+  links_raw: 1742 ж. Орынбордағы ант беру жиналысының өкілі
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: tatiqara-aqyn
+  name: Тәтіқара ақын
+  dates:
+    raw: 1705–1780
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Уақ
+    level: C
+  region: Қостанай
+  school: Абылай ордасы
+  links_raw: Абылай ханның ақылшысы; Бөгенбай, Олжабай жорықтарының жыршысы
+  in_wikipedia_category: false
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: umbetey-tileuuly
+  name: Үмбетей Тілеуұлы
+  dates:
+    raw: 1706–1778
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Арғын, Қанжығалы
+    level: C
+  region: Ақмола
+  school: Абылай ордасы
+  links_raw: '**Алғашқы ұстазы — өз әкесі Тілеу**; Бөгенбай батырдың жыршысы; Бұқармен дос-құрдас'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: shal-aqyn
+  name: Шал ақын
+  dates:
+    raw: 1748–1819 (нұсқалары әртүрлі)
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Арғын
+    level: C
+  region: Солтүстік Қазақстан
+  school: Жыраудан ақындыққа өту буыны
+  links_raw: Шолу мақаласында жыраулар қатарында аталады
+  in_wikipedia_category: false
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qabylisa-qaban-zhyrau
+  name: Қабылиса (Қабан жырау)
+  dates:
+    raw: 1733–1824
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Жалайыр
+    level: C
+  region: Жетісу
+  school: Айтыс-жыраулық
+  links_raw: 15 жасынан айтысқа түскен; кейінгі ақындар ұстаз тұтқан
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: zhanaq-sagyndyquly
+  name: Жанақ Сағындықұлы
+  dates:
+    raw: 1770–1856
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Арғын
+    level: C
+  region: Шығыс Қазақстан, Қарағанды
+  school: Ақындық кезең
+  links_raw: Ауыл молдасынан дәріс алған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: abyl-tileuuly
+  name: Абыл Тілеуұлы
+  dates:
+    raw: 1777–1864
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Маңғыстау
+  school: '**Батыс (Маңғыстау) мектебінің түп атасы**'
+  links_raw: Әкесі Тілеу, атасы Өтембет. «Өзінен кейінгі көп ақындар ұстаз тұтқан»
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: eset-qarauly
+  name: Есет Қараұлы
+  dates:
+    raw: 1779–1869
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Байұлы, Беріш
+    level: C
+  region: Атырау, Маңғыстау
+  school: Би-жырау
+  links_raw: Төбе би атанған; Мұратқа өнеге берген
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: dosqozha-zhyrau
+  name: Досқожа жырау
+  dates:
+    raw: 1801–1866
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: —
+  school: Кенесары дәуірі
+  links_raw: «Кенесары қонысынан ауғанда Досқожаның айтқаны» жырымен белгілі
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: dulat-babatayuly
+  name: Дулат Бабатайұлы
+  dates:
+    raw: 1802–1874
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Найман (Аягөз)
+    level: C
+  region: Шығыс Қазақстан
+  school: Зар заман ағымы
+  links_raw: '**Абайдың ұлық тұтқан ұстазы**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: mahambet-otemisuly
+  name: Махамбет Өтемісұлы
+  dates:
+    raw: 1804–1846
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Байұлы, Беріш
+    level: C
+  region: Бөкей ордасы
+  school: Күрес жыры
+  links_raw: Исатай Тайманұлы көтерілісінің жыршысы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: arystanbay-tobylbayuly
+  name: Арыстанбай Тобылбайұлы
+  dates:
+    raw: 1811–1880
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Арғын, Атығай
+    level: C
+  region: Ақмола
+  school: Суырыпсалма
+  links_raw: Әкесі Тобылбай би; Орынбай, Серәлі, Шөжемен айтысқан
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qalniyaz-shopyquly
+  name: Қалнияз Шопықұлы
+  dates:
+    raw: 1816–1902
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Адай
+    level: C
+  region: Маңғыстау, Атырау
+  school: Батыс мектебі
+  links_raw: Жорық жыршысы, қол бастаған жырау
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: mysabay-musabay-amanqululy
+  name: Мысабай (Мұсабай) Аманқұлұлы
+  dates:
+    raw: 1820–1909
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Қазалы
+  school: Сыр бойы
+  links_raw: Шығыстық сюжеттер негізінде дастан жазған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qalym-tumanuly
+  name: Қалым Тұманұлы
+  dates:
+    raw: 1825 ш. – белгісіз
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Маңғыстау
+  school: Батыс мектебі
+  links_raw: «Көкбұйра атпен айтысы» сақталған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: bazar-zhyrau-ondasuly
+  name: Базар жырау Оңдасұлы
+  dates:
+    raw: 1842–1911
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Шөмекей
+    level: C
+  region: Сыр, Қармақшы
+  school: '**Сыр бойы мектебі**'
+  links_raw: «Сыр бойының жыраулары өзіне ұстаз тұтқан»
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: murat-monkeuly
+  name: Мұрат Мөңкеұлы
+  dates:
+    raw: 1843–1906
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Байұлы, Беріш
+    level: C
+  region: Атырау
+  school: Батыс мектебі
+  links_raw: '**← Есет би, Абыл ақын; → Мұрын жырауға ұстаз болған**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: baspan-qulymbayuly
+  name: Баспан Құлымбайұлы
+  dates:
+    raw: 1843–1915
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Шөмекей, Бозғыл
+    level: C
+  region: Қазалы
+  school: Сыр бойы
+  links_raw: —
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qozha-gafuruly
+  name: Қожа Ғафурұлы
+  dates:
+    raw: 1846–1893
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Адай
+    level: C
+  region: Маңғыстау → Түрікмен жері
+  school: Батыс мектебі
+  links_raw: Ұрпағы Қайролла да жыршы болған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: aqtan-kereyuly
+  name: Ақтан Керейұлы
+  dates:
+    raw: 1850–1912
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Байұлы, Адай
+    level: C
+  region: Маңғыстау, Ақтөбе
+  school: Батыс мектебі
+  links_raw: '**← Абыл, Нұрым, Марабай дәстүрі; → Қашаған мен Нұрпейіс одан үйренген**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qazaqbay
+  name: Қазақбай
+  dates:
+    raw: 1850 – белгісіз
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Батыс Қазақстан
+  school: Айтыс-жыршылық
+  links_raw: 1906 ж. Орынбор архив комиссиясына шақырылған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: dur-ongar-dyrqayuly
+  name: Дүр Оңғар Дырқайұлы
+  dates:
+    raw: 1859–1902
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Шөмекей, Бозғыл
+    level: C
+  region: Сыр, Қармақшы
+  school: Сыр бойы мектебі
+  links_raw: Балқы Базар, Кете Жүсіп, Тұрмағамбетпен байланысты
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: muryn-zhyrau-sengirbayuly
+  name: Мұрын жырау Сеңгірбайұлы
+  dates:
+    raw: 1859–1954
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Адай
+    level: C
+  region: Маңғыстау
+  school: '**«Қырымның қырық батыры» тасымалдаушысы**'
+  links_raw: '**← Қашаған, Нұрым, Мұрат**; өзін Сыпыра жыраудың ұрпағы деген'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: nurpeyis-bayganin
+  name: Нұрпейіс Байғанин
+  dates:
+    raw: 1860–1945
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Әлімұлы, Шекті
+    level: C
+  region: Ақтөбе
+  school: Батыс мектебі
+  links_raw: '**← анасы; Абыл, Шернияз, Нұрым, Қашаған, Ақтан, Қазақбай, Сабыр**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: aqyt-ulimzhiuly
+  name: Ақыт Үлімжіұлы
+  dates:
+    raw: 1868–1940
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Керей
+    level: C
+  region: Қытай, Алтай
+  school: Диаспора
+  links_raw: Бұқара медресесінде оқыған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: temirbay-zhyrau-zhanibekuly
+  name: Темірбай жырау Жәнібекұлы
+  dates:
+    raw: 1868–1933
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Кете
+    level: C
+  region: Сыр, Жалағаш
+  school: Сыр бойы мектебі
+  links_raw: '**Даңмұрын жыраудың жиені**; 1924 ж. Кете Жүсіппен айтысқан'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: myrzabek-bayzhanuly
+  name: Мырзабек Байжанұлы
+  dates:
+    raw: 1870–1945
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Ақтөбе, Қызылорда
+  school: Сын-әжуа жыры
+  links_raw: —
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: arqabay-maykotuly
+  name: Арқабай Майкөтұлы
+  dates:
+    raw: 1872–1934
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Жамбыл, Жетісу
+  school: Жетісу айтыс мектебі
+  links_raw: '**Әкесі — айтыс ақыны Майкөт Сандыбайұлы**; Жамбылмен кездескен'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: aysa-baytabynov
+  name: Айса Байтабынов
+  dates:
+    raw: 1875–1955
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Ақтөбе, Қобда
+  school: Батыс жыршылығы
+  links_raw: '**← Бітеген, Нұрпейіс ақындардан үйренген**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: ahmetov-erzhan
+  name: Ахметов Ержан
+  dates:
+    raw: 1879–1967
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Найман
+    level: C
+  region: Тарбағатай, Қытай
+  school: Шығыс/диаспора
+  links_raw: '**← Әсет Найманбайұлынан тәлім алған**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: satybaldy-aymaganov
+  name: Сатыбалды Аймағанов
+  dates:
+    raw: 1882–1962
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Арғын
+    level: C
+  region: Ақмола
+  school: Арқа жыршылығы
+  links_raw: —
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: imanzhan-zhylqaydarov
+  name: Иманжан Жылқайдаров
+  dates:
+    raw: 1886 – белгісіз
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Ұлытау, Жезқазған
+  school: Арқа әнші-жыршылығы
+  links_raw: '**← Балуан Шолақ, Үкілі Ыбырай, Ақан сері, Құлтума, Тайжаннан тәлім алған**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: aytbay-aytmuhamet-belgibayuly
+  name: Айтбай (Айтмұхамет) Белгібайұлы
+  dates:
+    raw: 1887–1961
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Отырар, Түркістан
+  school: Оңтүстік
+  links_raw: Қарнақ пен Бұхара медресесінде оқыған; өзі ұстаздық еткен
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: doseken-ergazyuly
+  name: Досекен Ерғазыұлы
+  dates:
+    raw: 1890–1936
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Адай
+    level: C
+  region: Маңғыстау
+  school: Батыс мектебі
+  links_raw: Жиын үстінде қайтыс болған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: sugir-zhyrau-begendikuly
+  name: Сүгір жырау Бегендікұлы
+  dates:
+    raw: 1894–1974
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Адай
+    level: C
+  region: Маңғыстау
+  school: Батыс мектебі
+  links_raw: '**← Бәли Нұрнияз ақынның мектебінде білім алған**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: aqtan-babiuly
+  name: Ақтан Бабиұлы
+  dates:
+    raw: 1897–1973
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Моңғолия
+  school: Диаспора
+  links_raw: Моңғолиядағы жазба әдебиеттің негізін салушы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: kundebay-aldogarov
+  name: Күндебай Алдоғаров
+  dates:
+    raw: 1900–1975
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Қармақшы, Сырдария
+  school: Сыр бойы
+  links_raw: Н.Бекежанов, Ж.Омаровамен бірге өнер көрсеткен
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: asqar-tatanayuly
+  name: Асқар Татанайұлы
+  dates:
+    raw: 1906–1996
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Керей
+    level: C
+  region: Алтай, Қытай
+  school: Диаспора
+  links_raw: «Батырлар жыры» дастандарын жариялаған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qutbay-durbaev
+  name: Құтбай Дүрбаев
+  dates:
+    raw: 1906–1971
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Ақмешіт → Өзбекстан
+  school: Диаспора / Сыр
+  links_raw: Қазақ диаспорасының мұрасын жинаушы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: darigul-omirqululy
+  name: Дәріғұл Өмірқұлұлы
+  dates:
+    raw: 1908–1956
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Сыр
+  school: Сыр бойы мектебі
+  links_raw: '**← Рахметұлы Сұлтан мен Нұртуғанның шәкірті**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: muhamediyar-zhabagiev
+  name: Мұхамедияр Жабағиев
+  dates:
+    raw: 1908–1989
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Байұлы, Алтын
+    level: C
+  region: Қармақшы, Қызылорда
+  school: Сыр бойы мектебі
+  links_raw: '**← Қаңлы Жүсіп, Кете Жүсіп, Даңмұрын, Сейітжан, Тоғжанды ұстаз санаған**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: raqym-turganuly
+  name: Рақым Тұрғанұлы
+  dates:
+    raw: 1913–1990
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Найман, Матай
+    level: C
+  region: Тарбағатай
+  school: Шығыс / жинаушы
+  links_raw: Ауыз әдебиетін жинаушы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qarlybay-qalzhanov
+  name: Қарлыбай Қалжанов
+  dates:
+    raw: 1916 – белгісіз
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Қоңырат
+    level: C
+  region: Қарақалпақстан
+  school: Бесқала
+  links_raw: «Қобыланды», «Қарасай-Қази» дастандарын орындаған
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qurmanhan-muqamadiuly
+  name: Құрманхан Мұқамадиұлы
+  dates:
+    raw: 1923–1964
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: —
+  school: Диаспора
+  links_raw: —
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: koken-shakeev
+  name: Көкен Шәкеев
+  dates:
+    raw: 1924–1999
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Көкшетау
+  school: Арқа айтыс мектебі
+  links_raw: '**1988 ж. Көкшетауда ақындар мектебін ашқан**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: qazhygumar-shabdanuly
+  name: Қажығұмар Шабданұлы
+  dates:
+    raw: 1925–2011
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Қытай, Шығыс Қазақстан
+  school: Диаспора
+  links_raw: —
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: nauryzbek-zhyrau-nurzhaubayuly
+  name: Наурызбек жырау Нұржаубайұлы
+  dates:
+    raw: 1931–1994
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Әлімұлы, Шекті
+    level: C
+  region: Қарақалпақстан, Мойнақ
+  school: '**Бесқала мектебінің негізін салушы**'
+  links_raw: «Жаңа бір өнер мектебінің негізін салды»
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: satsha-toqashev
+  name: Сатша Тоқашев
+  dates:
+    raw: 1934–1967
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Маңғыстау
+  school: Батыс
+  links_raw: Әнші, домбырашы, жыршы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: kosheney-rustembekuly
+  name: Көшеней Рүстембекұлы
+  dates:
+    raw: 1946–1973
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Әлімұлы, Кете-Құлыс
+    level: C
+  region: Қармақшы
+  school: '**Жиенбай жырау мектебі**'
+  links_raw: '**Рүстембек жыраудың баласы, Жиенбай жыраудың немересі**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: bazarbay-sabyrov
+  name: Базарбай Сабыров
+  dates:
+    raw: 1950 ж.т.
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Адай
+    level: C
+  region: Өзбекстан, Шоманай
+  school: Бесқала мектебі
+  links_raw: '**← Жарқынбек, Дүзмағанбет, Сүгір, Наурызбек, Алдаберген, Жолжан, Рейім**'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: bidas-rustembekuly
+  name: Бидас Рүстембекұлы
+  dates:
+    raw: 1951 ж.т.
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Әлімұлы, Кете-Құлыс
+    level: C
+  region: Қармақшы
+  school: '**«Жиенбай жырау» мектебінің жетекшісі**'
+  links_raw: '**Рүстембек жыраудың баласы, Жиенбай жыраудың немересі** (Көшенейдің бауыры)'
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: argynbay-zhumazhanuly
+  name: Арғынбай Жұмажанұлы
+  dates:
+    raw: XX ғ. (1954 ж. институт бітірген)
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: Арғын
+    level: C
+  region: Баян-Өлгей, Моңғолия
+  school: Диаспора
+  links_raw: Ұстаз, журналист, жинаушы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: bayangali-toqanuly-alimzhanov
+  name: Баянғали Тоқанұлы Әлімжанов
+  dates:
+    raw: 1954 ж.т.
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Ақмола, Степняк
+  school: Қазіргі жыршылық
+  links_raw: Жыршы-жырау әрі манасшы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: sabit-dabylov
+  name: Сәбит Дабылов
+  dates:
+    raw: 1976 ж.т.
+    level: C
+    source: kk.wikipedia, «Санат:Қазақ жыраулары», 2026-08-19
+  clan:
+    value: null
+    level: C
+  region: Өзбекстан, Тамды
+  school: Сыр/Тау елі дәстүрі
+  links_raw: Сырмағамбет, Балқы Базар жырларының орындаушысы
+  in_wikipedia_category: true
+  sang_about: []
+  contemporary_of: []
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана

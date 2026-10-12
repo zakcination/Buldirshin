@@ -1,0 +1,196 @@
+# Батырлар тізілімі — машинаға оқылатын қабат
+#
+# СХЕМА: zertteu/tizilim/00-shema.md §3
+# ДЕҢГЕЙ: әр өріс өз деңгейін көтереді. Деңгейсіз өріс жарамсыз.
+# §4 ЕРЕЖЕСІ: traits ішіндегі әр жазбада attributed_in және kind МІНДЕТТІ.
+#             Мінез-қасиет ешқашан факт ретінде жазылмайды.
+#
+# Бұл файлда тек бұрын тексерілген бес тұлға бар. Қалғаны зерттеу
+# нәтижелерінен (Z-, E-, N-, S-, P- тұжырымдары) қосылады.
+
+batyrlar:
+
+- id: qanzhygaly-bogenbay
+  name:
+    canonical: Қанжығалы Бөгенбай Ақшаұлы
+    variants: [Бөгенбай батыр, Қанжығалы Бөгенбай]
+    epithet: null
+  dates:
+    birth: ~1690
+    death: 1775 (дәстүрлі нұсқа)
+    level: D
+    source: 'T-13 — даулы; жыр 1690 шамасын қолдайды'
+  clan:
+    value: Арғын, Қанжығалы
+    level: A
+    source: 'Үмбетей мен Бұқар жырларында дербес аталады'
+  region: Орталық Қазақстан, Ертіс бойы, Тарбағатай
+  era: XVIII ғ. бірінші жартысы
+  zhyrau_link:
+    type: З
+    zhyrau_ids: [umbetey-tileuuly, buqar-zhyrau-qalqamanuly]
+    note: >-
+      Үмбетей — заманхат әрі куәгер: «Батырды қолдан өткіздім, / Сәлемін міне
+      жеткіздім» (T-14). Бұқар да заманхат. Екеуі бір-бірін тәуелсіз растайды.
+  epic:
+    exists: unknown
+    titles: []
+    corpus_ref: null
+    collector: null
+  events:
+    - {name: Жоңғар жорықтары, years: null, level: A, source: 'T-16/T-17 — география расталған'}
+    - {name: 'Арғын мен найманның қоныстануы', years: 'жоңғар жеңілгеннен кейін',
+       level: A, source: 'T-18 — екі жырауда'}
+  companions: [qarakerey-qabanbay, abylay-han]
+  traits:
+    - text: 'Арғын мен найманға қоныс қалдырған — ел қамын ойлаған'
+      attributed_in: 'Үмбетей, «Бөгенбай қазасын Абылай ханға естірту»; Бұқар'
+      kind: мақтау
+      level: A
+      ref: T-18
+    - text: '«Уа, сен қанжығалы Бөгенбай, / Тоқымы кеппес ұры едің» — барымтаға араласқан'
+      attributed_in: 'Бұқар жырау; Үмбетей «Бәкеге»: «Тоқымы кеппей топтанып, ел тонауға аттанып»'
+      kind: сын
+      level: A
+      ref: T-32
+      note: >-
+        Екі тәуелсіз жырау бір идиоманы қолданады. Бұл — мақтау жырының ішіндегі
+        сын қабаты; §4 ережесі бойынша міндетті түрде тіркеледі.
+  documentation:
+    has_level_I: true
+    has_level_III: false
+    primary_sources:
+      - 'Үмбетей Тілеуұлы, «Бөгенбай қазасын Абылай ханға естірту»'
+      - 'Бұқар жырау Қалқаманұлы, «Бөгенбай өліміне» (екі нұсқа)'
+    status: зерттелген
+
+- id: qarakerey-qabanbay
+  name:
+    canonical: Қаракерей Қабанбай Қожақұлұлы
+    variants: [Қабанбай батыр, Ерасыл]
+    epithet: Ерасыл
+  dates:
+    birth: null
+    death: null
+    level: D
+    source: >-
+      З.Сәнікұлы, Б.Садықанұлы. «Қаракерей Қабанбай» (Жазушы, 1991). Автордың
+      өзі нақты дерек жоқтығын ескертіп, есептеу жолын көрсеткен — түпнұсқадан
+      оқылуы тиіс.
+  clan: {value: Найман, Қаракерей, level: B, source: 'жыр мәтіндерінде'}
+  region: Тарбағатай, Шығыс Қазақстан
+  era: XVIII ғ. бірінші жартысы
+  zhyrau_link:
+    type: З
+    zhyrau_ids: [umbetey-tileuuly]
+    note: >-
+      Үмбетей «Ей, Ақтанберді, Қабанбай!» жырында оған тікелей, атымен
+      жүгінеді — заманхат байланыс.
+  epic: {exists: unknown, titles: [], corpus_ref: null, collector: null}
+  events: []
+  companions: [qanzhygaly-bogenbay, aqtamberdi-saryuly, abylay-han]
+  traits:
+    - text: >-
+        «Елімді иесіз демейсің, / Алты арысқа білдірмей, / Басып жеймін
+        демейсің?!» — біреудің қонысын иесіз санап иемдену айыпталады
+      attributed_in: 'Үмбетей Тілеуұлы, «Ей, Ақтанберді, Қабанбай!»'
+      kind: сын
+      level: B
+      note: >-
+        Жырау батырды бетіне басып сынайды. «Батпан, батпан мінің бар» —
+        тікелей айып тағу. Бұл мәтін батырды тек мақтау қалыбын бұзады.
+    - text: '«Хан алдында күшінді» айт — дау хан сотында шешілуі керек'
+      attributed_in: 'сонда'
+      kind: бейтарап
+      level: B
+      note: 'Батырдың жеке күшіне емес, хандық билік институтына жүгіну қағидасы'
+  documentation:
+    has_level_I: true
+    has_level_III: false
+    primary_sources: ['Үмбетей Тілеуұлы, «Ей, Ақтанберді, Қабанбай!»']
+    status: ішінара
+
+- id: shaqshaq-zhanibek
+  name:
+    canonical: Шақшақ Жәнібек Қошқарұлы
+    variants: [Шақшақұлы Жәнібек]
+    epithet: null
+  dates: {birth: 1693, death: 1752, level: C, source: 'кең таралған нұсқа; архивпен тексерілмеген'}
+  clan: {value: Арғын, Шақшақ, level: C, source: null}
+  region: Торғай, Орталық Қазақстан
+  era: XVIII ғ. бірінші жартысы
+  zhyrau_link:
+    type: Д
+    zhyrau_ids: [umbetey-tileuuly]
+    note: >-
+      T-6 — ДАУЛЫ. Үмбетейдің «бес тірек» тізіміндегі «Керейде батыр Жәнібек»
+      деген жол екі бөлек тұлғаның қайсысына қатысты екені шешілмеген.
+      Қолжазба нұсқасын көрмей шешу мүмкін емес.
+  epic: {exists: unknown, titles: [], corpus_ref: null, collector: null}
+  events: []
+  companions: []
+  traits: []
+  documentation:
+    has_level_I: false
+    has_level_III: false
+    primary_sources: []
+    status: ішінара
+
+- id: kerey-er-zhanibek
+  name:
+    canonical: Керей Ер Жәнібек Бердәулетұлы
+    variants: [Ер Жәнібек]
+    epithet: Ер
+  dates: {birth: 1714, death: 1792, level: C, source: 'аңыз бен кең таралған нұсқа'}
+  clan: {value: Керей, level: C, source: null}
+  region: Шығыс Қазақстан, Алтай
+  era: XVIII ғ.
+  zhyrau_link:
+    type: Э
+    zhyrau_ids: []
+    note: >-
+      Атаулы заманхат жырау табылмады. Қолда бар — ауызша аңыз
+      (derekter/anyzdar/er-zhanibek-anyzy.md, T-43…T-53), яғни II деңгей.
+  epic: {exists: true, titles: ['Ер Жәнібек аңызы'], corpus_ref: null, collector: null}
+  events: []
+  companions: [qarakerey-qabanbay, qanzhygaly-bogenbay]
+  traits: []
+  documentation:
+    has_level_I: false
+    has_level_III: false
+    primary_sources: ['Ер Жәнібек аңызы (ауызша дәстүр, 13 бөлім)']
+    status: ішінара
+
+- id: abylay-han
+  name:
+    canonical: Абылай хан
+    variants: [Әбілмансұр, Сабалақ]
+    epithet: null
+  dates: {birth: null, death: 1781, level: C, source: 'кең таралған нұсқа'}
+  clan: {value: Төре, Шыңғыс тұқымы, level: B, source: null}
+  region: Орта жүз
+  era: XVIII ғ.
+  zhyrau_link:
+    type: З
+    zhyrau_ids: [buqar-zhyrau-qalqamanuly, umbetey-tileuuly]
+    note: >-
+      Бұқар — ордадағы жырау, Абылайға арнау жырларының тұтас циклы бар.
+      Үмбетей естіртуді Абылайдың алдында айтқан.
+  epic: {exists: unknown, titles: [], corpus_ref: null, collector: null}
+  events:
+    - {name: 'Тұтқынға түсуі', years: null, level: A, source: 'T-4 — факті расталған, орны даулы'}
+  companions: [qanzhygaly-bogenbay, qarakerey-qabanbay]
+  traits:
+    - text: 'Бұқар жырау оны мақтап та, сынап та жырлаған: «Мініңді айтып сынайтын»'
+      attributed_in: 'Бұқар жырау, Абылайға арнаулар'
+      kind: сын
+      level: B
+      note: 'Жыраудың хан алдындағы сын айту құқығы — институт ретінде'
+  documentation:
+    has_level_I: true
+    has_level_III: true
+    primary_sources:
+      - 'Бұқар жырау, Абылай ханға арнаулар'
+      - 'Үмбетей Тілеуұлы, естірту'
+      - 'орыс архив құжаттары (елшілік есептері)'
+    status: ішінара
