@@ -205,3 +205,116 @@ batyrlar:
       - 'Үмбетей Тілеуұлы, естірту'
       - 'орыс архив құжаттары (елшілік есептері)'
     status: ішінара
+
+# --- 2026-10-12: тізілім зерттеуінен қосылғандар (Z-, N- тұжырымдары) ---
+
+- id: olzhabay-batyr
+  name: {canonical: Олжабай батыр, variants: [], epithet: null}
+  dates: {birth: null, death: null, level: C, source: 'нақтыланбаған'}
+  clan: {value: null, level: C, source: null}
+  region: Орта жүз
+  era: XVIII ғ.
+  zhyrau_link:
+    type: З
+    zhyrau_ids: [tatiqara-aqyn, kotesh-rayymbekuly]
+    note: >-
+      Екі заманхат жырау. Бірақ Көтештің «Ер Олжабай» жыры МӘТІН РЕТІНДЕ
+      ЖОҒАЛҒАН — ел аузында «болушы еді» деп қана аталады (Z, деңгей D).
+      Яғни жырау болған, жыр жоқ. Тізілімде бұл жағдай бөлек тіркеледі.
+  epic: {exists: true, titles: ['Ер Олжабай (жоғалған)'], corpus_ref: null, collector: null}
+  events: []
+  companions: []
+  traits: []
+  documentation:
+    has_level_I: false
+    has_level_III: false
+    primary_sources: []
+    status: тізімде ғана
+
+- id: isatay-taymanuly
+  name: {canonical: Исатай Тайманұлы, variants: [], epithet: null}
+  dates: {birth: 1791, death: 1838, level: C, source: 'кең таралған нұсқа; архивпен тексерілмеген'}
+  clan: {value: Беріш, level: C, source: null}
+  region: Бөкей ордасы, Батыс Қазақстан
+  era: XIX ғ. бірінші жартысы
+  zhyrau_link:
+    type: З
+    zhyrau_ids: [mahambet-otemisuly]
+    note: >-
+      Махамбет — заманхат әрі көтерілістің өз қатысушысы. §2а бойынша қос рөлді
+      тұлға. ЕСКЕРТУ: «Исатай-Махамбет» ДАСТАНЫНЫҢ авторы — Ығылман Шөреков,
+      Махамбет емес; Махамбет сол дастанның кейіпкері. Екеуін шатастыру
+      корпусқа бөтен мәтін қосады (N-есебі).
+  epic: {exists: true, titles: ['Исатай-Махамбет (авторы Ығылман Шөреков)'],
+         corpus_ref: null, collector: null}
+  events:
+    - {name: 'Бөкей ордасындағы көтеріліс', years: '1836–1838', level: A,
+       source: 'орыс архив құжаттары'}
+  companions: []
+  traits: []
+  documentation:
+    has_level_I: true
+    has_level_III: true
+    primary_sources: ['Махамбет Өтемісұлының өлеңдері (тасымалы R1 — §2а қараңыз)']
+    status: ішінара
+
+- id: kenesary-qasymuly
+  name: {canonical: Кенесары Қасымұлы, variants: [], epithet: null}
+  dates:
+    birth: 1802
+    death: 1847
+    level: B
+    source: >-
+      Қазасы: Сібір корпусы командирінің 1847.05.18 №130 мәліметі қазаны
+      хабарлайды, демек сәуір басым. «25 маусым» нұсқасы хронология бойынша
+      мүмкін емес (N-есебі).
+  clan: {value: Төре, Абылайдың немересі, level: B, source: null}
+  region: Орта жүз, Сарыарқа
+  era: XIX ғ. бірінші жартысы
+  zhyrau_link:
+    type: З
+    zhyrau_ids: [nysanbay-zhamanqululy]
+    note: >-
+      Нысанбай — жорықтың куәгері. Үш тәуелсіз қабатпен расталған: жырдың өзі,
+      Я.Палферовтың куәлігі, Кенесарының өз бағасы (Z-есебі).
+  epic: {exists: true, titles: ['Кенесары-Наурызбай'],
+         corpus_ref: 'ЗОО ИРГО (1875) → Қазан (1912) → Ташкент (1923)',
+         collector: 'Нысанбай Жаманқұлұлы'}
+  events: []
+  companions: [nauryzbay-qasymuly]
+  traits:
+    - text: '«Өзіміз шапқан Созақта / Сарттан ақыл сұрадық» — жырдың өз ішіндегі сын'
+      attributed_in: 'Нысанбай, «Кенесары-Наурызбай»'
+      kind: сын
+      level: B
+      note: >-
+        М.Әуезов жырды дәл осы сын қабаты үшін бағалаған. Жырдағы сын мақтаудан
+        кем емес — бұл §4 ережесінің дәлелі.
+  documentation:
+    has_level_I: true
+    has_level_III: true
+    primary_sources:
+      - 'Нысанбай Жаманқұлұлы, «Кенесары-Наурызбай»'
+      - 'Сібір корпусы құжаттары; ҚР ОМА ф.4'
+    status: ішінара
+
+- id: nauryzbay-qasymuly
+  name: {canonical: Наурызбай Қасымұлы, variants: [], epithet: null}
+  dates: {birth: null, death: 1847, level: C, source: 'Кенесарымен бірге'}
+  clan: {value: Төре, level: B, source: null}
+  region: Орта жүз
+  era: XIX ғ. бірінші жартысы
+  zhyrau_link:
+    type: З
+    zhyrau_ids: [nysanbay-zhamanqululy]
+    note: 'Сол дастанда, Кенесарымен қатар.'
+  epic: {exists: true, titles: ['Кенесары-Наурызбай'], corpus_ref: null,
+         collector: 'Нысанбай Жаманқұлұлы'}
+  events: []
+  companions: [kenesary-qasymuly]
+  traits: []
+  documentation:
+    has_level_I: true
+    has_level_III: false
+    primary_sources: ['Нысанбай Жаманқұлұлы, «Кенесары-Наурызбай»']
+    status: тізімде ғана

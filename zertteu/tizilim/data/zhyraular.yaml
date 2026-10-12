@@ -7,6 +7,10 @@
 #
 # sang_about / contemporary_of өрістері 01-zamanhat-zhuptar.md нәтижесінен
 # толтырылады. status «зерттелген» болуы үшін бастапқы дереккөз керек.
+#
+# in_wikipedia_category: false — Уикипедия санатында ЖОҚ, зерттеу арқылы
+# қосылған. Көтеш пен Нысанбай — екеуінде де батырмен ЗАМАНХАТ байланыс бар,
+# бірақ санатта жоқ. Бұл — V деңгейдің толық емес екенінің нақты дәлелі.
 
 zhyraular:
 - id: ketbuga
@@ -1286,6 +1290,57 @@ zhyraular:
   contemporary_of: []
   corpus:
     collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: kotesh-rayymbekuly
+  name: Көтеш Райымбекұлы
+  dates:
+    raw: XVIII ғ.
+    level: C
+    source: zertteu/tizilim/01-zamanhat-zhuptar.md (зерттеу, 2026-10-12)
+  clan:
+    value: null
+    level: C
+  region: Орта жүз
+  school: Абылай ордасы
+  links_raw: Олжабай батырға арналған «Ер Олжабай» жыры — МӘТІН ЖОҒАЛҒАН. Абылайға арнауы бар.
+  in_wikipedia_category: false
+  sang_about:
+  - olzhabay-batyr
+  contemporary_of:
+  - olzhabay-batyr
+  - abylay-han
+  corpus:
+    collections: []
+    manuscript_fond: null
+  disputed: false
+  status: тізімде ғана
+- id: nysanbay-zhamanqululy
+  name: Нысанбай Жаманқұлұлы
+  dates:
+    raw: 1822–1883 / «1870 ж. қайтыс» — екі нұсқа
+    level: D
+    source: zertteu/tizilim/01-zamanhat-zhuptar.md (зерттеу, 2026-10-12)
+  clan:
+    value: Жетіру, Керейт-Ашамайлы
+    level: C
+  region: Жалағаш
+  school: XIX ғ. жорық жыршысы
+  links_raw: '«Кенесары-Наурызбай» дастанының авторы. Жорықтың куәгері. Басылымы: ЗОО ИРГО (1875) → Қазан
+    (1912) → Ташкент (1923).'
+  in_wikipedia_category: false
+  sang_about:
+  - kenesary-qasymuly
+  - nauryzbay-qasymuly
+  contemporary_of:
+  - kenesary-qasymuly
+  - nauryzbay-qasymuly
+  corpus:
+    collections:
+    - ЗОО ИРГО, 1875
+    - Қазан, 1912
+    - Ташкент, 1923
     manuscript_fond: null
   disputed: false
   status: тізімде ғана
