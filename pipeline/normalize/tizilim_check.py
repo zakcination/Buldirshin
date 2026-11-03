@@ -173,6 +173,8 @@ def main():
             err(w, "passport жоқ, сондықтан status «тізімде» болуы керек")
         if str(it.get("tier", "")).startswith("эпос") and not it.get("corpus"):
             warn(w, "эпос қабатындағы жазбада corpus көрсетілмеген")
+        if it.get("tier") == "XX" and not it.get("award"):
+            err(w, "XX қабатындағы жазбада award жоқ — атақ атауы міндетті")
         sa = it.get("same_as")
         if sa:
             if sa not in qa_ids:
