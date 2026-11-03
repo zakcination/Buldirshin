@@ -1,0 +1,1337 @@
+# Қаһармандар тізілімі — ТОЛЫҚ ТІЗІМ ҚАБАТЫ
+#
+# СХЕМА мен шектеуі: zertteu/tizilim/06-tolyq-tizilim.md
+# Бұл файл — ТІЗІМ, паспорт емес. Мұндағы жазба «бұл есім зерттеуде
+# тіркелген, дереккөзі мынау» дегенді білдіреді, «бұл тұлға толық
+# зерттелген» дегенді БІЛДІРМЕЙДІ. Толық паспорт — data/batyrlar.yaml,
+# ал `passport` өрісі екеуін жалғайды.
+#
+# Дерек жаңа іздеуден алынмады: бәрі zertteu/tizilim/ ішіндегі бар
+# проза құжаттарынан суырылды. `source_doc` — қай құжаттан.
+
+qaharmandar:
+
+- id: anshybay-batyr
+  name: Аңшыбай батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 11, 31'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'М. Хакімжанова (1942, 15–17 тамыз); Бозтай Жақыпбаев (1942)'
+  shelfmark: 'ОҒК, Ш. 330, 3-дәп.; Ш. 673, 4-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Аңшыбай саласының түп атасы; екі нұсқа
+
+- id: parpariya-batyr
+  name: Парпария батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 51'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: Д. Сеңгірбаев (1942)
+  shelfmark: 'ОҒК, Ш. 673, 10-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Аңшыбайдың ұлы
+
+- id: quttyqiya-batyr
+  name: Құттықия батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 69'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: А. Хангелдин (1941)
+  shelfmark: 'ОҒК, Ш. 830'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Парпарияның ұлы
+
+- id: edige-batyr
+  name: Едіге батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 76; 39-том (жеке эпос)'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: М. Хакімжанова (1942)
+  shelfmark: 'ОҒК, Ш. 79Д'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Құттықияның ұлы. Жеке эпосы да бар — 39-томда 8 мәтін
+
+- id: nuradyn-batyr
+  name: Нұрадын батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 108'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 673, 5-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+  note: Едігенің ұлы. Жазып алған адам анықталмады
+
+- id: musa-han
+  name: Мұса хан
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 138'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 673, 6-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+  note: Нұрадынның ұлы
+
+- id: oraq-batyr
+  name: Орақ батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 157; 40-том (жеке эпос)'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 673, 7-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Циклде «Орақ, Мамай» бір мәтін; 40-томда жеке эпос, 4 нұсқа'
+
+- id: mamay-batyr
+  name: Мамай батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 157; 40-том'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 673, 7-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+  note: Орақпен жұп мәтінде
+
+- id: qarasay-batyr
+  name: Қарасай батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 182; 41, 42, 46-томдар'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'Бозтай Жақыпбаев (1939, Маңғыстау экспедициясы); М. Хакімжанова (1942)'
+  shelfmark: 'ОҒК, Ш. 673, 9-дәп. және 8-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Орақтың ұлы. Қазимен жұп. Жеке эпосында 12 мәтін
+
+- id: qazi-batyr
+  name: Қази батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 182; 41, 42, 46-томдар'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: сол
+  shelfmark: 'ОҒК, Ш. 673, 9-дәп. және 8-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Қарасаймен жұп
+
+- id: qaradon-batyr
+  name: Қарадөң батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 218'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'М. Хакімжанова (1942, 29 тамыз — 2 қыркүйек); Дәуіт Сеңгірбаев (1942)'
+  shelfmark: 'ОҒК, Ш. 330, 1-дәп. және Ш. 673, 1-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Қарадөң саласының түп атасы
+
+- id: zhubanysh-batyr
+  name: Жұбаныш батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 245, 265'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'М. Хакімжанова (1942, 14 қыркүйек)'
+  shelfmark: 'ОҒК, Ш. 330, 1-дәп.; Ш. 673, 2-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Қарадөңнің ұлы; екі нұсқа
+
+- id: suyinish-batyr
+  name: Сүйініш батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 297'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 673, 3-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+
+- id: er-begis
+  name: Ер Бегіс
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 336'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 667, 9-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Тізімдерде «Ертегіс» деген нұсқасы да жүр — есім нұсқалары D'
+
+- id: kogis-tegis
+  name: 'Көгіс, Тегіс'
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 359'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 667, 8-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+  note: Бір мәтінде екі есім. Ер Көгіс / Тегіс нұсқалары — D
+
+- id: tama-batyr
+  name: Тама батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 377'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 667, 7-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+
+- id: tana-batyr
+  name: Тана батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 50-том: 395'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, Ш. 667, 6-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+
+- id: narik-batyr
+  name: Нәрік батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 9; 45-том'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'М. Хәкімжанова, Б. Жақыпбаев, Д. Мұрынұлы, М. Исаева (1942)'
+  shelfmark: 'ОҒК, 830-бума, 2-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Шораның әкесі. 45-томда жеке эпос
+
+- id: shora-batyr
+  name: Шора батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 48; 45-том'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: сол топ (1942)
+  shelfmark: 'ОҒК, 830-бума, 2-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Нәріктің ұлы. 45-томда 4 мәтін
+
+- id: qydyrbayuly-qobylandy
+  name: Қыдырбайұлы Қобыланды
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 98; 35–38-томдар'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады (1942)
+  shelfmark: 'ОҒК, Ш. 830, 6-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  same_as: qobylandy-batyr
+  note: Циклдегі нұсқасы. Жеке эпосында 16 мәтін. Бір тұлғаның екі корпус қабаты
+
+- id: asanqaygy
+  name: Асанқайғы
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 153'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'Дәуіт Сеңгірбаев (1942, Алматы)'
+  shelfmark: 'ОҒК, Ш. 667, 3-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: '«Асанқайғы, Тоған, Абат» бір мәтінде. ЖЫРАУ ӘРІ ҚАҺАРМАН — қос рөл (00-shema.md §2а)'
+
+- id: togan-batyr
+  name: Тоған батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 153'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'Дәуіт Сеңгірбаев (1942, Алматы)'
+  shelfmark: 'ОҒК, Ш. 667, 3-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Асанқайғы мәтінінде
+
+- id: abat-batyr
+  name: Абат батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 153'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'Дәуіт Сеңгірбаев (1942, Алматы)'
+  shelfmark: 'ОҒК, Ш. 667, 3-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Сол мәтінде
+
+- id: qargaboyly
+  name: Қарғабойлы
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 183'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: М. Хакімжанова (1942 шамасы)
+  shelfmark: 'ОҒК, Ш. 667, 4-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: '«Қарғабойлы, Қазтуған» бір мәтінде'
+
+- id: qaztugan-batyr
+  name: Қазтуған батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 183'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: М. Хакімжанова (1942 шамасы)
+  shelfmark: 'ОҒК, Ш. 667, 4-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Қарғабойлымен жұп. Қазтуған жырау тұлғасымен шатастырмау керек — тексерілмеді
+
+- id: kokshe-batyr
+  name: Көкше батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 218; 44-том'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'анықталмады (1940, Маңғыстау)'
+  shelfmark: 'ОҒК, Ш. 330, 4-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: '44-томда «Ер Көкше» жеке мәтін'
+
+- id: kokshenin-uly-er-qosay
+  name: Көкшенің ұлы Ер Қосай
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 231; 44-том'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады (1942)
+  shelfmark: 'ОҒК, Ш. 667, 1-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: '44-томда «Ер Қосай» жеке мәтін'
+
+- id: aqzhonasuly-er-kenes
+  name: Ақжонасұлы Ер Кеңес
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 257'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'М. Хакімжанова (1942, Алматы)'
+  shelfmark: 'ОҒК, Ш. 30, 8-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Әкесі Ақжонас академиялық томда жеке мәтінмен берілмеген
+
+- id: manashyuly-tuyaqbay
+  name: Манашыұлы Тұяқбай
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 287'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: 'А. Хангелдин (1941, фольклорлық экспедиция)'
+  shelfmark: 'ОҒК, Ш. 830, 7-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+
+- id: zhanbyrshyuly-telagys
+  name: Жаңбыршыұлы Телағыс
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 309'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, ҚҚ: Ш. 81д., 41–67-бб.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+
+- id: aysanyn-uly-ahmet
+  name: Айсаның ұлы Ахмет
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 331'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: анықталмады
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+  note: Шифры да анықталмады — корпустағы ең нашар құжатталған жыр
+
+- id: alau-batyr
+  name: Алау батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 348'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады
+  shelfmark: 'ОҒК, ҚҚ: Ш. 830, 4-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+
+- id: amet-batyr
+  name: Әмет батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 362'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: И. Ұйықбаев (1948)
+  shelfmark: 'ОҒК, Ш. 423, 3-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: Циклдің ішінде ең кеш жазылған мәтін — 1948 ж.
+
+- id: shyntasuly-torehan
+  name: Шынтасұлы Төрехан
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 373; 46-том'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: баласы Дәуітбай (1942)
+  shelfmark: 'ОҒК, Ш. 830, 9-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: 'Жырауның өз баласы жазып алған. 46-томда «Төрехан батыр» 2 мәтін'
+
+- id: sultan-kerim
+  name: Сұлтан Керім
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 390'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: Асайын Хангелдин (1941)
+  shelfmark: 'ОҒК, Ш. 830, 1-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: ҮЗІНДІ — 93 тармақ ғана
+
+- id: manashy-batyr
+  name: Манашы батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 393'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: Асайын Хангелдин (1941)
+  shelfmark: 'ОҒК, Ш. 830, 1-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: ҮЗІНДІ. Тұяқбайдың әкесі
+
+- id: zhanbyrshy-batyr
+  name: Жаңбыршы батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 395'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: Асайын Хангелдин (1941)
+  shelfmark: 'ОҒК, Ш. 830, 1-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: ҮЗІНДІ. Телағыстың әкесі
+
+- id: shyntas-batyr
+  name: Шынтас батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 397'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: Асайын Хангелдин (1941)
+  shelfmark: 'ОҒК, Ш. 830, 1-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: ҮЗІНДІ. Төреханның әкесі
+
+- id: qart-qozhaq
+  name: Қарт Қожақ
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 399'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: Асайын Хангелдин (1941)
+  shelfmark: 'ОҒК, Ш. 830, 1-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: A
+  passport: null
+  status: тізімде
+  note: ҮЗІНДІ
+
+- id: qulynshaq-batyr
+  name: Құлыншақ батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  corpus: 'Бабалар сөзі 51-том: 401'
+  performer: Мұрын жырау (Тілеген/Мұрын Сеңгірбекұлы)
+  recorder: анықталмады (1941 шамасы)
+  shelfmark: 'ОҒК, Ш. 830, 1-дәп.'
+  source_doc: 02-epos-korpusy.md §3.4
+  level: B
+  passport: null
+  status: тізімде
+  note: ҮЗІНДІ
+
+- id: matay-batyr
+  name: Матай батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  source_doc: 'el.kz / kk.wikipedia тізімдері (2026-11-03), академиялық томда жеке мәтіні жоқ'
+  level: C
+  passport: null
+  status: тізімде
+  note: Мұсаның ұлы деп беріледі; 50–51-томдарда жеке мәтін жоқ
+
+- id: zhanbay-batyr
+  name: Жанбай батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  source_doc: 'el.kz / kk.wikipedia тізімдері (2026-11-03), академиялық томда жеке мәтіні жоқ'
+  level: C
+  passport: null
+  status: тізімде
+  note: Кеңестің ұлы деп беріледі; академиялық томда жоқ
+
+- id: aqzhonas-batyr
+  name: Ақжонас батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  source_doc: 'el.kz / kk.wikipedia тізімдері (2026-11-03), академиялық томда жеке мәтіні жоқ'
+  level: C
+  passport: null
+  status: тізімде
+  note: 'Ер Кеңестің әкесі; жеке мәтін жоқ, есімі ұл атауында сақталған'
+
+- id: boztugan-batyr
+  name: Бозтуған батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  source_doc: 'el.kz / kk.wikipedia тізімдері (2026-11-03), академиялық томда жеке мәтіні жоқ'
+  level: C
+  passport: null
+  status: тізімде
+  note: 'el.kz тізімінде 29-шы; академиялық томдағы «Қазтуған»-мен шатасу ықтимал — D'
+
+- id: temir-han
+  name: Темір хан
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  source_doc: 'el.kz / kk.wikipedia тізімдері (2026-11-03), академиялық томда жеке мәтіні жоқ'
+  level: C
+  passport: null
+  status: тізімде
+  note: el.kz тізімінде 36-шы; академиялық томда жоқ
+
+- id: adil-batyr
+  name: Әділ батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  source_doc: 'el.kz / kk.wikipedia тізімдері (2026-11-03), академиялық томда жеке мәтіні жоқ'
+  level: C
+  passport: null
+  status: тізімде
+  note: el.kz тізімінде 37-ші; академиялық томда жоқ
+
+- id: shyrman-batyr
+  name: Шырман батыр
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  source_doc: 'el.kz / kk.wikipedia тізімдері (2026-11-03), академиялық томда жеке мәтіні жоқ'
+  level: C
+  passport: null
+  status: тізімде
+  note: 'el.kz тізімінде 39-шы, Сұлтанкерімнің ұлы; академиялық томда жоқ'
+
+- id: baba-tukti-shashty-aziz
+  name: Баба түкті Шашты Әзиз
+  tier: эпос-қырық-батыр
+  era: ноғайлы дәуірі (XIV–XVI ғ. деп телінеді)
+  source_doc: 'el.kz / kk.wikipedia тізімдері (2026-11-03), академиялық томда жеке мәтіні жоқ'
+  level: C
+  passport: null
+  status: тізімде
+  note: 'el.kz тізімінде Аңшыбайдың ұлы ретінде; әулие тұлғасы, батыр емес — жіктеу D'
+
+- id: alpamys-batyr
+  name: Алпамыс батыр
+  tier: эпос-жеке
+  era: эпостық дәуір (нақты хронологиясы жоқ)
+  corpus: 'Бабалар сөзі 33, 34-томдар (13 мәтін)'
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+  note: 'Корпустағы ең жақсы құжатталған топ: 13 мәтіннің алтауында айтушы, жазып алған адам, жылы да белгілі (E-23)'
+
+- id: qobylandy-batyr
+  name: Қобыланды батыр
+  tier: эпос-жеке
+  era: эпостық дәуір (нақты хронологиясы жоқ)
+  corpus: 'Бабалар сөзі 35, 36, 37, 38-томдар (16 мәтін)'
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+  same_as: qydyrbayuly-qobylandy
+  note: 'ОҒК мен ӘӨИ қорларында отызға жуық нұсқасы бар, 16-сы томға енген (E-24). Бір нұсқасын 1860-жж. Марабай ақыннан Ы. Алтынсарин жазып алған (E-25)'
+
+- id: kiikbay
+  name: Киікбай
+  tier: эпос-жеке
+  era: эпостық дәуір (нақты хронологиясы жоқ)
+  corpus: Бабалар сөзі 38-том
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: B
+  passport: null
+  status: тізімде
+  note: Қобыландының баласы; Мергенбай нұсқасында жеке жыр
+
+- id: qambar-batyr
+  name: Қамбар батыр
+  tier: эпос-жеке
+  era: эпостық дәуір (нақты хронологиясы жоқ)
+  corpus: Бабалар сөзі 43-том (12 мәтін)
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+  note: 11 нұсқа + Назым қыздың әңгімесі
+
+- id: er-targyn
+  name: Ер Тарғын
+  tier: эпос-жеке
+  era: эпостық дәуір (нақты хронологиясы жоқ)
+  corpus: Бабалар сөзі 44-том (3 нұсқа)
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+
+- id: er-sayyn
+  name: Ер Сайын
+  tier: эпос-жеке
+  era: эпостық дәуір (нақты хронологиясы жоқ)
+  corpus: Бабалар сөзі 44-том
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+  note: 'Томда «Сайын батыр» деп берілген'
+
+- id: qarabek-batyr
+  name: Қарабек батыр
+  tier: эпос-жеке
+  era: эпостық дәуір (нақты хронологиясы жоқ)
+  corpus: Бабалар сөзі 44-том (2 мәтін)
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+  note: '«Қисса-и Қарабек» және «Қарабек батыр»'
+
+- id: bogen-batyr
+  name: Бөген батыр
+  tier: эпос-жеке
+  era: эпостық дәуір (нақты хронологиясы жоқ)
+  corpus: Бабалар сөзі 46-том (2 мәтін)
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+  note: '03-19-gasyr.md §1-де де аталады, бірақ онда дерек табылмады (Ж типі)'
+
+- id: bozuglan
+  name: Бозұғлан
+  tier: эпос-ортақ-түркі
+  era: ортақ түркі эпостық қабаты
+  corpus: Бабалар сөзі 47-том (5 мәтін)
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+  note: 'Цикл «түркімен батырлық аңыздарының сюжетіне құрылған» — қазақ батыры емес, ортақ түркі қабаты'
+
+- id: korugly
+  name: Көрұғлы
+  tier: эпос-ортақ-түркі
+  era: ортақ түркі эпостық қабаты
+  corpus: 'Бабалар сөзі 48, 49-томдар (16 мәтін)'
+  source_doc: '02-epos-korpusy.md §2, §4'
+  level: A
+  passport: null
+  status: тізімде
+  note: Ортақ түркі циклы. 49-томдағы бір нұсқасын ЖАМБЫЛ жырлаған
+
+- id: batyr-zhanibek
+  name: Батыр Жәнібек
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 56-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: '56-томдағы «Батыр Жәнібек». Есімдес үш Жәнібек бар — ажырату қажет (59, 61-томдар)'
+
+- id: ensegey-boyly-er-esim-esim-han
+  name: Еңсегей бойлы ер Есім (Есім хан)
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 56-том (2 мәтін)
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: '«Еңсегей бойлы ер Есім» және «Есім хан» — екі мәтін'
+
+- id: olzhash-batyr
+  name: Олжаш батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 56-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: oraqty-batyr
+  name: Орақты батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 56-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: tole-bi
+  name: Төле би
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 57-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Би; 1742 ж. елшілігі жобаның Үмбетей жырындағы «тоқсан жақсы» дәлелімен байланысты'
+
+- id: sabalaq
+  name: Сабалақ
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 57-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Абылай ханның жастық шағындағы аты — жеке тұлға емес, сол тұлғаның басқа атауы'
+
+- id: er-zhasybay
+  name: Ер Жасыбай
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 59-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: zhidebay-batyr
+  name: Жидебай батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 59-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: rayymbek-batyr
+  name: Райымбек батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 59-том (2 мәтін)
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: er-otegen
+  name: Ер Өтеген
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 59-том (3 мәтін)
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: myrqy-batyr
+  name: Мырқы батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 59-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: baraq-batyr
+  name: Барақ батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 60-том (3 мәтін)
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: bazar-batyr
+  name: Базар батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 60-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: berdiqozha-batyr
+  name: Бердіқожа батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 60-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: zhantay-batyr
+  name: Жантай батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 60-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: zhapal-batyr
+  name: Жапал батыр
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 61-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: er-azhibay
+  name: Ер Әжібай
+  tier: тарихи-жыр
+  era: XVI–XIX ғ. (томға қарай)
+  corpus: Бабалар сөзі 61-том
+  source_doc: 02-epos-korpusy.md §7.4 (56–59-томдар); 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+
+- id: qanzhygaly-bogenbay-aqshauly
+  name: Қанжығалы Бөгенбай Ақшаұлы
+  tier: XVIII
+  era: XVIII ғ.
+  corpus: 'Бабалар сөзі 29, 58-томдар (2 мәтін)'
+  source_doc: 01-zamanhat-zhuptar.md; data/batyrlar.yaml
+  level: A
+  passport: qanzhygaly-bogenbay
+  status: зерттелген
+  note: Үмбетей мен Бұқар — екеуі де заманхат куәгер (З типі). Паспорты толық
+
+- id: qarakerey-qabanbay-qozhaqululy
+  name: Қаракерей Қабанбай Қожақұлұлы
+  tier: XVIII
+  era: XVIII ғ.
+  corpus: Бабалар сөзі 58-том (9 мәтін)
+  source_doc: 01-zamanhat-zhuptar.md; data/batyrlar.yaml
+  level: A
+  passport: qarakerey-qabanbay
+  status: зерттелген
+  note: Корпуста ең көп мәтіні бар XVIII ғ. батыры — 9 мәтін
+
+- id: shaqshaq-zhanibek-qoshqaruly
+  name: Шақшақ Жәнібек Қошқарұлы
+  tier: XVIII
+  era: XVIII ғ.
+  corpus: 'Бабалар сөзі 61-том («Шақшақұлы Ер Жәнібек»)'
+  source_doc: 01-zamanhat-zhuptar.md; data/batyrlar.yaml
+  level: B
+  passport: shaqshaq-zhanibek
+  status: зерттелген
+  note: Керей Ер Жәнібекпен есімдес — екеуі бөлек тұлға
+
+- id: kerey-er-zhanibek-berdauletuly
+  name: Керей Ер Жәнібек Бердәулетұлы
+  tier: XVIII
+  era: XVIII ғ.
+  corpus: 'Бабалар сөзі 27-том (Қытай нұсқасы), 59-том'
+  source_doc: 01-zamanhat-zhuptar.md; data/batyrlar.yaml
+  level: A
+  passport: kerey-er-zhanibek
+  status: зерттелген
+  note: 'Шетелдік қабаты бар: Шіңгіл, 1991; таратушы Ыбырай, 1927'
+
+- id: abylay-han
+  name: Абылай хан
+  tier: XVIII
+  era: XVIII ғ.
+  corpus: 'Бабалар сөзі 57-том (8 мәтін), 29-том'
+  source_doc: 01-zamanhat-zhuptar.md; data/batyrlar.yaml
+  level: A
+  passport: abylay-han
+  status: зерттелген
+  note: Корпуста ең көп мәтіні бар тұлға — 8 мәтін 57-томда
+
+- id: olzhabay-batyr
+  name: Олжабай батыр
+  tier: XVIII
+  era: XVIII ғ.
+  corpus: 'Бабалар сөзі 57-том («Абылай мен Олжабай»), 59-том («Орта жүз Олжабай», «Олжабай және қырық батыр»)'
+  source_doc: 01-zamanhat-zhuptar.md; data/batyrlar.yaml
+  level: A
+  passport: olzhabay-batyr
+  status: зерттелген
+
+- id: syrym-datuly
+  name: Сырым Датұлы
+  tier: XIX
+  era: '?–1802; туған жылы 1712 / 1723 / 1742'
+  region: Жайық-Орал; Кіші жүз Байұлы-Байбақты (Айтимбет)
+  source_doc: 03-19-gasyr.md §1
+  level: D
+  passport: null
+  status: тізімде
+  note: 'Өлімі A, туған жылы D. Атаулы заманхат жырау табылмады (Ж). «Материалы по истории Казахской ССР» т.4; Игельстромның баянаттары. Бабалар сөзі 60-том (2 мәтін)'
+
+- id: isatay-taymanuly
+  name: Исатай Тайманұлы
+  tier: XIX
+  era: 1791–1838 (12 шілде)
+  region: Бөкей (Ішкі) Ордасы; Кіші жүз Байұлы-Бериш
+  source_doc: 03-19-gasyr.md §1
+  level: A
+  passport: isatay-taymanuly
+  status: зерттелген
+  note: 'З — Махамбет, Шернияз Жарылғасұлы; К — Ығылман Шөреков. Геке рапорттары, Жәңгірдің арыздары'
+
+- id: mahambet-otemisuly
+  name: Махамбет Өтемісұлы
+  tier: XIX
+  era: 1803 / 1804 – 1846 (20 қазан)
+  region: Бөкей Ордасы; Бериш
+  source_doc: 03-19-gasyr.md §1
+  level: A
+  passport: null
+  status: тізімде
+  note: 'ҚОС РӨЛ: батыр әрі жырау (00-shema.md §2а). Үні I, тасымалы R1 — автографы жоқ, Ығылман Шөрековтен 1925/1939 жазылған. Туған жылы D'
+
+- id: kenesary-qasymuly
+  name: Кенесары Қасымұлы
+  tier: XIX
+  era: 1802–1847 (сәуір)
+  region: 'Көкшетау → Ұлытау → Жетісу; Төре, Абылай немересі'
+  source_doc: 03-19-gasyr.md §1
+  level: A
+  passport: kenesary-qasymuly
+  status: зерттелген
+  note: 'З — Нысанбай Жаманқұлұлы. ҚР ОМА ф.4, ф.374; өз хаттары. Қаза күні D. Бабалар сөзі 29-том'
+
+- id: nauryzbay-qasymuly
+  name: Наурызбай Қасымұлы
+  tier: XIX
+  era: 1822–1847
+  region: сол; Кенесарының туған інісі
+  source_doc: 03-19-gasyr.md §1
+  level: B
+  passport: nauryzbay-qasymuly
+  status: зерттелген
+  note: З — Нысанбай (ағасымен бірге жырланады). Сібір корпусының 1847.05.18 №130 мәліметі
+
+- id: zhanqozha-nurmuhameduly
+  name: Жанқожа Нұрмұхамедұлы
+  tier: XIX
+  era: 1774 / 1780 – 1860
+  region: Сыр бойы; Кіші жүз Әлімұлы-Шекті
+  source_doc: 03-19-gasyr.md §1
+  level: D
+  passport: null
+  status: тізімде
+  note: 'Э — авторы белгісіз жыр, ~2400 жол, 8 нұсқа; К — Мұсабай, Лұқпан Кенжеұлы, Орнықбай, Қарман Сұлтанұлы. Аничков 1894. Туған жылы D, оқиға A'
+
+- id: eset-kotibaruly
+  name: Есет Көтібарұлы
+  tier: XIX
+  era: 1803 / 1807 – 1888 / 1889
+  region: Арал-Сағыз-Елек-Ойыл; Шекті
+  source_doc: 03-19-gasyr.md §1
+  level: D
+  passport: null
+  status: тізімде
+  note: 'З — Ақпан ақын (көтеріліске қатысқан); Э — «Айман-Шолпан» эпосында бала күйінде. 1855.07 баянаттары. Жылдары D'
+
+- id: agybay-qonyrbayuly
+  name: Ағыбай Қоңырбайұлы
+  tier: XIX
+  era: 1802–1885
+  region: Сарыарқа; Орта жүз Арғын-Шұбыртпалы
+  source_doc: 03-19-gasyr.md §1
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Э/К — «Ақжолтай Ағыбай батыр» (1935 ж. жазба). ҚР ОМА ф.374-те Кенесары серіктері тізімінде. Бабалар сөзі 29-том'
+
+- id: arqalyq-batyr
+  name: Арқалық батыр
+  tier: XIX
+  era: XVIII ғ. соңы — XIX ғ. басы
+  region: 'Қытай, Алтай + Қазақстан'
+  source_doc: 03-19-gasyr.md §1
+  level: A
+  passport: null
+  status: тізімде
+  note: 'Бабалар сөзі 27-том (Қытай нұсқасы), 61-том (Қазақстан нұсқалары, 3 мәтін). Шетел мен ел ішіндегі нұсқалары қатар сақталған жалғыз тұлға'
+
+- id: beket-myrzagululy-beket-ata
+  name: Бекет Мырзағұлұлы (Бекет ата)
+  tier: XIX-қатар
+  era: шам. 1750 – 1813
+  region: Маңғыстау; Адай
+  source_doc: 03-19-gasyr.md §1
+  level: C
+  passport: null
+  status: тізімде
+  note: 'БАТЫР ЕМЕС — әулие, ұстаз. К — Нұрым Шыршығұлұлы («Тоғыз ауыл»), Түмен Балтабасұлы, Бала Ораз Өтебайұлы, Насихат Сүгірұлы. Архив дереккөзі табылмады'
+
+- id: qurmangazy-sagyrbayuly
+  name: Құрманғазы Сағырбайұлы
+  tier: XIX-қатар
+  era: 1823–1896 (архив) / 1818–1889 (Жұбанов)
+  region: Бөкей Ордасы; Кіші жүз Қыдырсиық
+  source_doc: 03-19-gasyr.md §1
+  level: A
+  passport: null
+  status: тізімде
+  note: 'БАТЫР ЕМЕС — күйші. Жыраулық байланыс табылмады (Ж). Архив: Астрахан облыстық архиві, 1882 ж. Красный Яр түрмесі тізімі. Архив A, дәстүр D'
+
+- id: tautik-batyr
+  name: Тәутік батыр
+  tier: шетел
+  era: XIX ғ. басы
+  region: 'Қытай, Алтай'
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Айтушы Бердіхан Жапайұлы (К). Бабалар сөзі 27-том; Буыршын, 1991'
+
+- id: zhaqypberdi-batyr
+  name: Жақыпберді батыр
+  tier: шетел
+  era: XX ғ. басы
+  region: 'Қытай, Іле; албан'
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Мәтін батырдың өзіне телінген (З/Д) — атрибуция даулы. К: Әләжі Байтекеұлы, Тұрсынәлі Қунақұлы, Жұмахан Рысмендеұлы. 27-том; Нылқы, 1990'
+
+- id: boqy-batyr
+  name: Боқы батыр
+  tier: шетел
+  era: XIX ғ. басы
+  region: 'Қытай, Алтай, Гансу'
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Алғашқы жыршысы ұмыт (Э); Жидәй Нұғыманұлы (К). 27-том («Боқы батыр»), 28-том («Он сегіз»). ЕСІМ ТҮЗЕТІЛДІ: «Бопы» емес, Боқы'
+
+- id: boke-batyr
+  name: Бөке батыр
+  tier: шетел
+  era: 1880 жж.
+  region: 'Қытай, Алтай → Тибет'
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Тасымал тізбегі: Шәкей молла → Теміржан ақын → Кәпсал қария (Д). 27-том; Үрімжі, 1992'
+
+- id: zhantokesh-bi
+  name: Жантөкеш би
+  tier: шетел
+  era: XIX ғ. ортасы — XX ғ. басы
+  region: 'Қытай, Еміл; найман'
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Жыршысы белгісіз (Э). 27-том, О. Егеубаев қолжазбасы'
+
+- id: esimqan-yrysqan
+  name: 'Есімқан, Ырысқан'
+  tier: шетел
+  era: XX ғ. басы
+  region: 'Қытай, Көктоғай'
+  source_doc: 04-shetel.md §6
+  level: A
+  passport: null
+  status: тізімде
+  note: 'Тоқтамағзам оқиғаны басынан кешкен, 1940 ж. өлген (З — заманхат куәгер); Қазым Әлменұлы (К). 27-том; Бурылтоғай, 1992'
+
+- id: argynbek-apashpayuly
+  name: Арғынбек Апашпайұлы
+  tier: шетел
+  era: 1883–1946
+  region: Қытай; найман
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'ӨЗІ ЖЫРЛАҒАН (З) — қос рөл. 28-том; «Мұра», 1992'
+
+- id: keshubay
+  name: Кешубай
+  tier: шетел
+  era: орыс отарлауы тұсы
+  region: Қазақстан — Қытай
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'К: Әрімжан Жанұзақұлы (1878–1945), Төлеу Көбдіков, Шерияздан Сұлтанбайұлы. 28-том; Бейжің «Ұлттар», 1985'
+
+- id: er-bulan
+  name: Ер Бұлан
+  tier: шетел
+  era: XIX ғ.
+  region: Қытай; Сәмен төре тұсы
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Жыршысы белгісіз (Э). 28-том; «Мұра», 1982'
+
+- id: bidahmet-uan-bala
+  name: Бидахмет (Уаң бала)
+  tier: шетел
+  era: XX ғ. басы
+  region: Қытай → Гансу
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'Нәби Тұрсынбайұлы (К). 28-том; Баркөл, 1993'
+
+- id: nuptebek-bi-auleti
+  name: Нүптебек би әулеті
+  tier: шетел
+  era: 1921 ж. өлген
+  region: Қытай; найман-қызай
+  source_doc: 04-shetel.md §6
+  level: A
+  passport: null
+  status: тізімде
+  note: 'Таңжарық Жолдыұлы асқа куә болған (З). 28-том; Үрімжі, 1995/2001; Астана, 2002'
+
+- id: satbek-batyr
+  name: Сәтбек батыр
+  tier: шетел
+  era: XIX ғ.
+  region: Қазақстан (Қызылжар) + Қытай
+  source_doc: 04-shetel.md §6
+  level: A
+  passport: null
+  status: тізімде
+  note: 'Қытайда Шерияздан Сұлтанбайұлы, Қасым Тілеукеұлы (Э/К). 28-том; Қазан, 1909. 56-томда да бар'
+
+- id: qozheke-kuyshi
+  name: Қожеке күйші
+  tier: шетел
+  era: XIX ғ. соңы
+  region: Жетісу — Іле
+  source_doc: 04-shetel.md §6
+  level: B
+  passport: null
+  status: тізімде
+  note: 'БАТЫР ЕМЕС — күйші. Таупиық Жексенбайұлы (К). 28-том; Текес, 1992'
+
+- id: kobesh-aytbayuly
+  name: Көбеш Айтбайұлы
+  tier: шетел
+  era: 1802–1888 / 1810–1890
+  region: 'Моңғолия, Қобда'
+  source_doc: 04-shetel.md §6
+  level: D
+  passport: null
+  status: тізімде
+  note: 'Авторлығы дауда (Д). «Көбеш батыр», құраст. М. Сұлтаниязұлы, 1997 — «Бабалар сөзі»-де ЖОҚ. Даталары D'
+
+- id: asylbek-kobeshuly
+  name: Асылбек Көбешұлы
+  tier: шетел
+  era: 1868 ж. өлтірілген
+  region: Моңғолия
+  source_doc: 04-shetel.md §6
+  level: C
+  passport: null
+  status: тізімде
+  note: Жыршы табылмады (Ж)
+
+- id: qaldeke-otynshyuly
+  name: Қалдеке Отыншыұлы
+  tier: шетел
+  era: 1809–1860
+  region: Моңғолия; найман биі
+  source_doc: 04-shetel.md §6
+  level: C
+  passport: null
+  status: тізімде
+  note: Жыршы табылмады (Ж)
+
+- id: ospan-islamuly-ospan-batyr
+  name: Оспан Исламұлы (Оспан батыр)
+  tier: шетел
+  era: 1899–1951
+  region: 'Қытай, Алтай'
+  source_doc: 04-shetel.md §6
+  level: D
+  passport: null
+  status: тізімде
+  note: 'САЯСИ ДАУЛЫ — 04-shetel.md §7 қараңыз. Арнайы жыр табылмады; «Қан кешу» жырында есімі аталады (Э). Руы бойынша төрт атрибуция, біреуі де A-ға жетпейді'
+
+- id: aqyt-qazhy-ulimzhiuly
+  name: Ақыт қажы Үлімжіұлы
+  tier: шетел
+  era: 1867/1868–1940
+  region: 'Қытай, Алтай'
+  source_doc: 04-shetel.md §6
+  level: D
+  passport: null
+  status: тізімде
+  note: ӨЗІ АҚЫН — қос рөл; немересі Мөнен Ақытұлы жырлаған (К). 28-том; қисса-дастандары Қазанда. Даталары D
+
+- id: qalibek-hakim
+  name: Қалибек Хакім
+  tier: шетел
+  era: XX ғ.
+  region: Қытай → Үндістан → Түркия
+  source_doc: 04-shetel.md §6
+  level: C
+  passport: null
+  status: тізімде
+  note: Жыршы табылмады (Ж)
+
+- id: elishan-alipuly-zayyp-batyr
+  name: 'Елісхан Әліпұлы, Зайып батыр'
+  tier: шетел
+  era: XX ғ.
+  region: Қытай → көш
+  source_doc: 04-shetel.md §6
+  level: C
+  passport: null
+  status: тізімде
+  note: Жыршы табылмады (Ж)

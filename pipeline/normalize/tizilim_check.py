@@ -53,8 +53,10 @@ def load(name):
 def main():
     zh = load("zhyraular.yaml").get("zhyraular", [])
     ba = load("batyrlar.yaml").get("batyrlar", [])
+    qa = load("qaharmandar.yaml").get("qaharmandar", [])
     zh_ids = {z.get("id") for z in zh}
     ba_ids = {b.get("id") for b in ba}
+    qa_ids = {x.get("id") for x in qa}
 
     def status_of(coll, it):
         # схема §3: батырда status — documentation ішінде; §5: жырауда — түбірде
@@ -141,7 +143,50 @@ def main():
             else:
                 warn(w, f"companions → «{cid}» ешбір тізілімде жоқ")
 
-    print(f"Жыраулар: {len(zh)} · Батырлар: {len(ba)}")
+    # ── ТІЗІМ ҚАБАТЫ: qaharmandar.yaml (06-tolyq-tizilim.md) ──
+    TIERS = {"эпос-қырық-батыр", "эпос-жеке", "эпос-ортақ-түркі", "тарихи-жыр",
+             "XVIII", "XIX", "XIX-қатар", "шетел", "XX"}
+    seen_q = set()
+    for it in qa:
+        w = f"қаһарман «{it.get('id') or '?'}»"
+        if not it.get("id"):
+            err(w, "id жоқ")
+            continue
+        if it["id"] in seen_q:
+            err(w, "id қайталанған")
+        seen_q.add(it["id"])
+        if not it.get("name"):
+            err(w, "name жоқ")
+        if it.get("tier") not in TIERS:
+            err(w, f"tier жарамсыз: {it.get('tier')!r}")
+        if it.get("level") not in ("A", "B", "C", "D", "E"):
+            err(w, f"level жарамсыз: {it.get('level')!r}")
+        if not it.get("source_doc"):
+            err(w, "source_doc жоқ — жазба қай құжаттан алынғанын көрсетуі керек")
+        p, st = it.get("passport"), it.get("status")
+        if p:
+            if p not in ba_ids:
+                err(w, f"passport → «{p}» batyrlar.yaml-да жоқ")
+            if st != "зерттелген":
+                err(w, "passport бар, бірақ status «зерттелген» емес")
+        elif st != "тізімде":
+            err(w, "passport жоқ, сондықтан status «тізімде» болуы керек")
+        if str(it.get("tier", "")).startswith("эпос") and not it.get("corpus"):
+            warn(w, "эпос қабатындағы жазбада corpus көрсетілмеген")
+        sa = it.get("same_as")
+        if sa:
+            if sa not in qa_ids:
+                err(w, f"same_as → «{sa}» тізімде жоқ")
+            else:
+                other = next(o for o in qa if o.get("id") == sa)
+                if other.get("same_as") != it["id"]:
+                    warn(w, f"same_as → «{sa}» кері сілтеме жасамайды")
+
+    linked = {it.get("passport") for it in qa if it.get("passport")}
+    for bid in sorted(ba_ids - linked):
+        warn(f"батыр «{bid}»", "qaharmandar.yaml тізімінде жазбасы жоқ")
+
+    print(f"Жыраулар: {len(zh)} · Батырлар: {len(ba)} · Қаһармандар тізімі: {len(qa)}")
     for x in warnings:
         print("  ЕСКЕРТУ  " + x)
     for x in errors:
