@@ -188,7 +188,28 @@ def main():
     for bid in sorted(ba_ids - linked):
         warn(f"батыр «{bid}»", "qaharmandar.yaml тізімінде жазбасы жоқ")
 
-    print(f"Жыраулар: {len(zh)} · Батырлар: {len(ba)} · Қаһармандар тізімі: {len(qa)}")
+    # ── ШИКІ ҚАБАТ: qaharmandar-ko-tizimi.yaml ──
+    ko = load("qaharmandar-ko-tizimi.yaml").get("ko_tizimi", [])
+    seen_k = set()
+    for it in ko:
+        w = f"КО тізімі «{it.get('id') or '?'}»"
+        if not it.get("id"):
+            err(w, "id жоқ")
+            continue
+        if it["id"] in seen_k:
+            err(w, "id қайталанған")
+        seen_k.add(it["id"])
+        if not it.get("name_source"):
+            err(w, "name_source жоқ — бастапқы жазудағы есім міндетті")
+        if it.get("level") != "C":
+            err(w, "шикі қабаттың деңгейі C болуы керек (тасымалы — вики айнасы)")
+        if it.get("status") != "тізімде":
+            err(w, "шикі қабаттың status-ы «тізімде» болуы керек")
+        if "name_kk" not in it:
+            warn(w, "name_kk өрісі жоқ — бос болса да тұруы керек")
+
+    print(f"Жыраулар: {len(zh)} · Батырлар: {len(ba)} · "
+          f"Қаһармандар тізімі: {len(qa)} · КО шикі тізімі: {len(ko)}")
     for x in warnings:
         print("  ЕСКЕРТУ  " + x)
     for x in errors:

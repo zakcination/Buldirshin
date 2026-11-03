@@ -1,0 +1,3237 @@
+# Кеңес Одағының Батыры — ТОЛЫҚ ТІЗІМ (шикі қабат)
+#
+# НЕГЕ БӨЛЕК ФАЙЛ. Бұл тізім `qaharmandar.yaml`-ға ҚОСЫЛМАЙДЫ, себебі
+# тасымалы әлсіз: ол ru.wikipedia-дің «Список Героев Советского Союза
+# (Казахстан)» бетінің dic.academic.ru айнасынан алынды, ал айна — ЕСКІ
+# нұсқаның көшірмесі. ӘДІСТЕМЕ бойынша бұл V деңгей, екі қайтара
+# қашықтаған. Сондықтан бүкіл файл — деңгейі C.
+#
+# Егер бұл 356 жазба сұрыпталған тізілімге құйылса, ол тізілімдегі барлық
+# басқа қабаттан көп болып, А мен B деңгейіндегі жұмысты басып қалар еді.
+# Тізілімнің мәні — сан емес, дәлел деңгейі.
+#
+# ТІЗІМНІҢ ШЕҢБЕРІ ДӘЛ ЕМЕС. Бастапқы бет «тағдыры бір кезеңде
+# республикамен байланысты болған» иегерлерді қамтиды, яғни:
+#   - ұлты қазақ емес адамдар да кіреді;
+#   - соғыстан кейінгі иегерлер де кіреді (мысалы ғарышкер В. Жәнібеков);
+#   - әр жазбаның ұлты да, атақ берілген күні де АНЫҚТАЛМАДЫ.
+#
+# ЕСІМДЕР ОРЫС ЖАЗУЫНДА қалдырылды. Қазақша нұсқасын ойдан жазу —
+# дерек жасау болар еді, сондықтан `name_kk` бос. Оны толтыру жеке жұмыс.
+#
+# КӨТЕРУ ЖОЛЫ: әр жазбаны «Герои Советского Союза. Краткий биографический
+# словарь» (М., 1987–1988) немесе ҚР архивінен тексеру. Тексерілген жазба
+# `qaharmandar.yaml`-ға XX қабатына көшеді.
+#
+# Алынған күні: 2026-11-03.
+
+ko_tizimi:
+
+- id: begeldinov-talgat-yakubekovich
+  name_source: 'Бегельдинов, Талгат Якубекович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  twice: true
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: beda-leonid-ignatevich
+  name_source: 'Беда, Леонид Игнатьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  twice: true
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: dzhanibekov-vladimir-aleksandrovich
+  name_source: 'Джанибеков, Владимир Александрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  twice: true
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: luganskiy-sergey-danilovich
+  name_source: 'Луганский, Сергей Данилович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  twice: true
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pavlov-ivan-fomich
+  name_source: 'Павлов, Иван Фомич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  twice: true
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: abdirov-nurken-abdirovich
+  name_source: 'Абдиров, Нуркен Абдирович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: abeulov-mukatay
+  name_source: 'Абеулов, Мукатай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ageev-nikolay-ivanovich
+  name_source: 'Агеев, Николай Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: aytykov-izgutty-kurmanbaevich
+  name_source: 'Айтыков, Изгутты Курманбаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: anischenko-aleksandr-mihaylovich
+  name_source: 'Анищенко, Александр Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: artemov-pyotr-mihaylovich
+  name_source: 'Артемов, Пётр Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: astafev-ivan-miheevich
+  name_source: 'Астафьев, Иван Михеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: asfandyarov-zakir-lutfrahmanovich
+  name_source: 'Асфандьяров, Закир Лутфрахманович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: aubakirov-toktar-ongarbaevich
+  name_source: 'Аубакиров, Токтар Онгарбаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: baisov-matay
+  name_source: 'Баисов, Матай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: baymagambetov-sultan-birzhanovich
+  name_source: 'Баймагамбетов, Султан Биржанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: bazdyrev-grigoriy-afanasevich
+  name_source: 'Баздырев, Григорий Афанасьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: baranov-ardalon-veniaminovich
+  name_source: 'Баранов, Ардальон Вениаминович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: bedrenko-nikolay-vasilevich
+  name_source: 'Бедренко, Николай Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: bezrodnyh-grigoriy-miheevich
+  name_source: 'Безродных, Григорий Михеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: berdnikov-gavriil-vasilevich
+  name_source: 'Бердников, Гавриил Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: berdnikov-nikolay-anfimovich
+  name_source: 'Бердников, Николай Анфимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: bernatskiy-dmitriy-vasilevich
+  name_source: 'Бернацкий, Дмитрий Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: blinov-pavel-fyodorovich
+  name_source: 'Блинов, Павел Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: borozenets-stepan-nikolaevich
+  name_source: 'Борозенец, Степан Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: bocharnikov-pyotr-stepanovich
+  name_source: 'Бочарников, Пётр Степанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: brilin-pavel-timofeevich
+  name_source: 'Брилин, Павел Тимофеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: budilin-ivan-mihaylovich
+  name_source: 'Будилин, Иван Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: bulavskiy-viktor-konstantinovich
+  name_source: 'Булавский, Виктор Константинович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: burnashov-aleksandr-anfinogenovich
+  name_source: 'Бурнашов, Александр Анфиногенович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: vagin-aleksandr-andreevich
+  name_source: 'Вагин, Александр Андреевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: vasilev-illarion-romanovich
+  name_source: 'Васильев, Илларион Романович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: velichkin-efim-dmitrievich
+  name_source: 'Величкин, Ефим Дмитриевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: velichko-valeriy-fedorovich
+  name_source: 'Величко, Валерий Федорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: verbitskiy-timofey-sergeevich
+  name_source: 'Вербицкий, Тимофей Сергеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: vidyashev-nikolay-timofeevich
+  name_source: 'Видяшев, Николай Тимофеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: vorobev-nikolay-nikolaevich
+  name_source: 'Воробьев, Николай Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: vychuzhanin-nikolay-alekseevich
+  name_source: 'Вычужанин, Николай Алексеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: gabdullin-malik
+  name_source: 'Габдуллин, Малик'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: galin-mihail-petrovich
+  name_source: 'Галин, Михаил Петрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: germashev-ivan-vasilevich
+  name_source: 'Гермашев, Иван Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: gorbatenko-nikolay-zaharovich
+  name_source: 'Горбатенко, Николай Захарович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: grigorev-nikolay-mihaylovich
+  name_source: 'Григорьев, Николай Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: gudenko-sergey-gavrilovich
+  name_source: 'Гуденко, Сергей Гаврилович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: gudz-porfiriy-martynovich
+  name_source: 'Гудзь, Порфирий Мартынович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: gulkin-ivan-tihonovich
+  name_source: 'Гулькин, Иван Тихонович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: davidenko-vasiliy-ivanovich
+  name_source: 'Давиденко, Василий Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: dusuhambetov-aba
+  name_source: 'Дусухамбетов, Аба'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: dutov-pyotr-danilovich
+  name_source: 'Дутов, Пётр Данилович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: emtsov-pyotr-kuzmich
+  name_source: 'Емцов, Пётр Кузьмич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ermolaev-feogent-filippovich
+  name_source: 'Ермолаев, Феогент Филиппович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: efimov-andrey-illarionovich
+  name_source: 'Ефимов, Андрей Илларионович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: efremov-dmitriy-ivanovich
+  name_source: 'Ефремов, Дмитрий Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: zhaksygulov-sadyk-shakelovich
+  name_source: 'Жаксыгулов, Садык Шакелович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: zhaltaev-bahtiyar-zhanbolatovich
+  name_source: 'Жалтаев, Бахтияр Жанболатович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: zhanzakov-abdulla
+  name_source: 'Жанзаков, Абдулла'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: zarudin-yuriy-fedorovich
+  name_source: 'Зарудин, Юрий Федорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: zadorozhnyy-mihail-ignatevich
+  name_source: 'Задорожный, Михаил Игнатьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: zverev-nikolay-aleksandrovich
+  name_source: 'Зверев, Николай Александрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: zrelov-ivan-petrovich
+  name_source: 'Зрелов, Иван Петрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ibraev-aytkesh-abaevich
+  name_source: 'Ибраев, Айткеш Абаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ivanilov-vladimir-semenovich
+  name_source: 'Иванилов, Владимир Семенович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ivannikov-aleksandr-mihaylovich
+  name_source: 'Иванников, Александр Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: idrisov-gelenhan-idrisovich
+  name_source: 'Идрисов, Геленхан Идрисович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ilin-evgeniy-kuzmich
+  name_source: 'Ильин, Евгений Кузьмич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kairbaev-mahmet-kairbaevich
+  name_source: 'Каирбаев, Махмет Каирбаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kalenik-dmitriy-mitrofanovich
+  name_source: 'Каленик, Дмитрий Митрофанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: karachev-mihail-vasilevich
+  name_source: 'Карачев, Михаил Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kataev-mihail-maksimovich
+  name_source: 'Катаев, Михаил Максимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kaumbaev-toganbay
+  name_source: 'Каумбаев, Тоганбай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kireev-semyon-yakovlevich
+  name_source: 'Киреев, Семён Яковлевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: klimenko-trofim-mihaylovich
+  name_source: 'Клименко, Трофим Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: klimov-vladimir-ivanovich
+  name_source: 'Климов, Владимир Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: klochkov-vasiliy-georgievich
+  name_source: 'Клочков, Василий Георгиевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kovalev-nikolay-nikolaevich
+  name_source: 'Ковалев, Николай Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kozhubergenov-daniil-aleksandrovich
+  name_source: 'Кожубергенов, Даниил Александрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kozak-semyon-antonovich
+  name_source: 'Козак, Семён Антонович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kokorin-fyodor-savinovich
+  name_source: 'Кокорин, Фёдор Савинович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kolchin-mihail-egorovich
+  name_source: 'Колчин, Михаил Егорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: koltsov-pavel-fyodorovich
+  name_source: 'Кольцов, Павел Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kondaurov-vladimir-nikolaevich
+  name_source: 'Кондауров, Владимир Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: konyahin-ivan-ivanovich
+  name_source: 'Коняхин, Иван Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kopylov-ivan-timofeevich
+  name_source: 'Копылов, Иван Тимофеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kosaev-alikbay
+  name_source: 'Косаев, Аликбай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kosenkov-ivan-vasilevich
+  name_source: 'Косенков, Иван Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: krivolapov-grigoriy-arhipovich
+  name_source: 'Криволапов, Григорий Архипович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kryuchkov-abram-ivanovich
+  name_source: 'Крючков, Абрам Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kuznetsov-grigoriy-matveevich
+  name_source: 'Кузнецов, Григорий Матвеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kulikov-nikolay-alekseevich
+  name_source: 'Куликов, Николай Алексеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: kurenkov-ivan-ivanovich
+  name_source: 'Куренков, Иван Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: lebedev-semyon-andrianovich
+  name_source: 'Лебедев, Семён Андрианович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: logvin-pyotr-ivanovich
+  name_source: 'Логвин, Пётр Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: lozorenko-boris-ivanovich
+  name_source: 'Лозоренко, Борис Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: losev-anatoliy-ivanovich
+  name_source: 'Лосев, Анатолий Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mazkov-evdokim-konstantinovich
+  name_source: 'Мазков, Евдоким Константинович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: makerov-leonid-nikolaevich
+  name_source: 'Макеров, Леонид Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: makovskiy-spartak-iosifovich
+  name_source: 'Маковский, Спартак Иосифович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: maksimov-nikolay-gordeevich
+  name_source: 'Максимов, Николай Гордеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: malahov-yuriy-nikolaevich
+  name_source: 'Малахов, Юрий Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: maliev-mihail-alekseevich
+  name_source: 'Малиев, Михаил Алексеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: malin-ivan-gavrilovich
+  name_source: 'Малин, Иван Гаврилович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: malin-konstantin-yakovlevich
+  name_source: 'Малин, Константин Яковлевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: malyy-sergey-dmitrievich
+  name_source: 'Малый, Сергей Дмитриевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: malyshev-viktor-aleksandrovich
+  name_source: 'Малышев, Виктор Александрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mametova-manshuk-zhiengalievna
+  name_source: 'Маметова, Маншук Жиенгалиевна'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mamraev-martbek
+  name_source: 'Мамраев, Мартбек'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mamutov-hasan
+  name_source: 'Мамутов, Хасан'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: markelov-nikolay-danilovich
+  name_source: 'Маркелов, Николай Данилович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: martehov-vasiliy-fyodorovich
+  name_source: 'Мартехов, Василий Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: masin-temir-dzhantekeevich
+  name_source: 'Масин, Темир Джантекеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: maslikov-anton-trofimovich
+  name_source: 'Масликов, Антон Трофимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: matveev-aleksandr-vladimirovich
+  name_source: 'Матвеев, Александр Владимирович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: matveev-aleksey-vladimirovich
+  name_source: 'Матвеев, Алексей Владимирович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mahambetov-zhakipbek
+  name_source: 'Махамбетов, Жакипбек'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mahorii-ivan-fyodorovich
+  name_source: 'Махории, Иван Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: medvedev-mihail-mihaylovich
+  name_source: 'Медведев, Михаил Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mednonogov-vyacheslav-aleksandrovich
+  name_source: 'Медноногов, Вячеслав Александрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: menschikov-pyotr-mihaylovich
+  name_source: 'Менщиков, Пётр Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: merkulov-matvey-kuzmich
+  name_source: 'Меркулов, Матвей Кузьмич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mehanoshin-kirill-petrovich
+  name_source: 'Механошин, Кирилл Петрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mehnin-fyodor-mihaylovich
+  name_source: 'Мехнин, Фёдор Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: milevskiy-maksim-ivanovich
+  name_source: 'Милевский, Максим Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: miletskiy-veniamin-mihaylovich
+  name_source: 'Милецкий, Вениамин Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: miller-pyotr-klimentevich
+  name_source: 'Миллер, Пётр Климентьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: milovidov-vladimir-sergeevich
+  name_source: 'Миловидов, Владимир Сергеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: min-aleksandr-pavlovich
+  name_source: 'Мин, Александр Павлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: minnibaev-gumer-hazinurovich
+  name_source: 'Миннибаев, Гумер Хазинурович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mitin-gavriil-stepanovich
+  name_source: 'Митин, Гавриил Степанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mitchenko-nikita-andreevich
+  name_source: 'Митченко, Никита Андреевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mihaylenko-evgeniy-efimovich
+  name_source: 'Михайленко, Евгений Ефимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: miheev-grigoriy-yakovlevich
+  name_source: 'Михеев, Григорий Яковлевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: moiseenko-vasiliy-tarasovich
+  name_source: 'Моисеенко, Василий Тарасович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: moldabaev-erezhepbay
+  name_source: 'Молдабаев, Ережепбай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: moldagaliev-zhangazy-akimovich
+  name_source: 'Молдагалиев, Жангазы Акимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: moldagulova-aliya-nurmuhambetovna
+  name_source: 'Молдагулова, Алия Нурмухамбетовна'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: momyshuly-bauyrzhan
+  name_source: 'Момышулы, Бауыржан'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mordasov-ivan-andreevich
+  name_source: 'Мордасов, Иван Андреевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: morinych-ivan-ivanovich
+  name_source: 'Мориныч, Иван Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: moroz-arsentiy-ignatovich
+  name_source: 'Мороз, Арсентий Игнатович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: moroz-daniil-efimovich
+  name_source: 'Мороз, Даниил Ефимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: morozov-lavrentiy-ilich
+  name_source: 'Морозов, Лаврентий Ильич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: morozov-pyotr-ivanovich
+  name_source: 'Морозов, Пётр Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: morozov-sergey-ilich
+  name_source: 'Морозов, Сергей Ильич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: moskalenko-ivan-vasilevich
+  name_source: 'Москаленко, Иван Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: moskovenko-vasiliy-ivanovich
+  name_source: 'Московенко, Василий Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: musaev-mukat
+  name_source: 'Мусаев, Мукат'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: mutkenov-serikbay
+  name_source: 'Муткенов, Серикбай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: muhamadeev-hamza-mursalimovich
+  name_source: 'Мухамадеев, Хамза Мурсалимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: myza-vladimir-ivanovich
+  name_source: 'Мыза, Владимир Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: myasoedov-grigoriy-pavlovich
+  name_source: 'Мясоедов, Григорий Павлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nadezhdin-pyotr-filippovich
+  name_source: 'Надеждин, Пётр Филиппович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: naydenov-grigoriy-artemevich
+  name_source: 'Найденов, Григорий Артемьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: natarov-ivan-moiseevich
+  name_source: 'Натаров, Иван Моисеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: naumov-georgiy-vasilevich
+  name_source: 'Наумов, Георгий Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nesterenko-daniil-potapovich
+  name_source: 'Нестеренко, Даниил Потапович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: netkaliev-erdenbek-netkalievich
+  name_source: 'Неткалиев, Ерденбек Неткалиевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nechipurenko-sergey-vasilevich
+  name_source: 'Нечипуренко, Сергей Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nizhurin-fyodor-trofimovich
+  name_source: 'Нижурин, Фёдор Трофимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: novikov-stepan-egorovich
+  name_source: 'Новиков, Степан Егорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nurzhanov-kazbek-beysenovich
+  name_source: 'Нуржанов, Казбек Бейсенович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nurlybaev-zholdybay
+  name_source: 'Нурлыбаев, Жолдыбай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nurmagambetov-sagadat-kozhahmetovich
+  name_source: 'Нурмагамбетов, Сагадат Кожахметович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nurpeisov-plis-kolgeldievich
+  name_source: 'Нурпеисов, Плис Кольгельдиевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nurseitov-dzhapasbay
+  name_source: 'Нурсеитов, Джапасбай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: nysanbaev-buran
+  name_source: 'Нысанбаев, Буран'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: obuhovskiy-anatoliy-romanovich
+  name_source: 'Обуховский, Анатолий Романович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ognev-andrey-grigorevich
+  name_source: 'Огнев, Андрей Григорьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ognev-pavel-egorovich
+  name_source: 'Огнев, Павел Егорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ozmitel-fyodor-fyodorovich
+  name_source: 'Озмитель, Фёдор Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: okorokov-matvey-petrovich
+  name_source: 'Окороков, Матвей Петрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: omelyanyuk-filipp-trofimovich
+  name_source: 'Омельянюк, Филипп Трофимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: omigov-ivan-fyodorovich
+  name_source: 'Омигов, Иван Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: onoprienko-nikolay-nikolaevich
+  name_source: 'Оноприенко, Николай Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ontaev-beysen-seitovich
+  name_source: 'Онтаев, Бейсен Сеитович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ostapenko-andrey-nikolaevich
+  name_source: 'Остапенко, Андрей Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pavlov-boris-timofeevich
+  name_source: 'Павлов, Борис Тимофеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pavlov-yuriy-nikolaevich
+  name_source: 'Павлов, Юрий Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: panfilov-ivan-vasilevich
+  name_source: 'Панфилов, Иван Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: paradovich-aleksandr-iosifovich
+  name_source: 'Парадович, Александр Иосифович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pahomov-dmitriy-fyodorovich
+  name_source: 'Пахомов, Дмитрий Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: patsaev-viktor-ivanovich
+  name_source: 'Пацаев, Виктор Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: paschenko-anisim-pavlovich
+  name_source: 'Пащенко, Анисим Павлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: perepechin-mihail-romanovich
+  name_source: 'Перепечин, Михаил Романович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: petrov-aleksandr-fyodorovich
+  name_source: 'Петров, Александр Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: petrov-aleksey-vasilevich
+  name_source: 'Петров, Алексей Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pleshkov-pyotr-antonovich
+  name_source: 'Плешков, Пётр Антонович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pogorelov-vasiliy-fyodorovich
+  name_source: 'Погорелов, Василий Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: podoltsev-ivan-grigorevich
+  name_source: 'Подольцев, Иван Григорьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: podorozhnyy-nikolay-alekseevich
+  name_source: 'Подорожный, Николай Алексеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: podsadnik-nikolay-georgievich
+  name_source: 'Подсадник, Николай Георгиевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pozolotin-timofey-semyonovich
+  name_source: 'Позолотин, Тимофей Семёнович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: polovinkin-vasiliy-vasilevich
+  name_source: 'Половинкин, Василий Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ponomarev-mihail-sergeevich
+  name_source: 'Пономарев, Михаил Сергеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: popov-aleksandr-grigorevich
+  name_source: 'Попов, Александр Григорьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: porosenkov-pavel-fyodorovich
+  name_source: 'Поросенков, Павел Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: potapov-dmitriy-kapitonovich
+  name_source: 'Потапов, Дмитрий Капитонович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: protopopov-ivan-ivanovich
+  name_source: 'Протопопов, Иван Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: prohorov-mihail-semyonovich
+  name_source: 'Прохоров, Михаил Семёнович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pulkin-grigoriy-stepanovich
+  name_source: 'Пулькин, Григорий Степанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: pyatkovskiy-ivan-maksimovich
+  name_source: 'Пятковский, Иван Максимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: radionov-pyotr-zinovevich
+  name_source: 'Радионов, Пётр Зиновьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: rahimov-sabir-umarovich
+  name_source: 'Рахимов, Сабир Умарович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: raschupkin-aleksandr-mihaylovich
+  name_source: 'Ращупкин, Александр Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: redko-aleksey-nikolaevich
+  name_source: 'Редько, Алексей Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: rezvyh-leonid-stepanovich
+  name_source: 'Резвых, Леонид Степанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: reshetnik-ivan-semyonovich
+  name_source: 'Решетник, Иван Семёнович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: roy-aleksey-hrisanfovich
+  name_source: 'Рой, Алексей Хрисанфович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: romanov-aleksandr-dmitrievich
+  name_source: 'Романов, Александр Дмитриевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: romanyutin-aleksandr-ivanovich
+  name_source: 'Романютин, Александр Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: roschin-lev-mihaylovich
+  name_source: 'Рощин, Лев Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: rubusin-sergey-mihaylovich
+  name_source: 'Рубусин, Сергей Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: rustamov-tashtemir
+  name_source: 'Рустамов, Таштемир'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ryzhov-georgiy
+  name_source: 'Рыжов, Георгий'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: savva-vladimir-artyomovich
+  name_source: 'Савва, Владимир Артёмович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sadomskov-pavel-stepanovich
+  name_source: 'Садомсков, Павел Степанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sadykov-botabay
+  name_source: 'Садыков, Ботабай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: salnikov-mihail-stepanovich
+  name_source: 'Сальников, Михаил Степанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: samarokov-nikolay-nikolaevich
+  name_source: 'Самароков, Николай Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: samohvalov-mihail-andreevich
+  name_source: 'Самохвалов, Михаил Андреевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sapalev-ivan-grigorevich
+  name_source: 'Сапалев, Иван Григорьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: saribekyan-ishhan-barsegovich
+  name_source: 'Сарибекян, Ишхан Барсегович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: safiullin-gani-bekinovich
+  name_source: 'Сафиуллин, Гани Бекинович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: safonov-fyodor-matveevich
+  name_source: 'Сафонов, Фёдор Матвеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: svinarchuk-nikolay-davydovich
+  name_source: 'Свинарчук, Николай Давыдович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sednev-sergey-egorovich
+  name_source: 'Седнев, Сергей Егорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: semenov-andrey-danilovich
+  name_source: 'Семенов, Андрей Данилович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: semenchenko-kuzma-aleksandrovich
+  name_source: 'Семенченко, Кузьма Александрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sengirbaev-musabek
+  name_source: 'Сенгирбаев, Мусабек'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sergienko-nikolay-dmitrievich
+  name_source: 'Сергиенко, Николай Дмитриевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: seredin-fyodor-yakovlevich
+  name_source: 'Середин, Фёдор Яковлевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sidorkov-semyon-matveevich
+  name_source: 'Сидорков, Семён Матвеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: silin-nikolay-nikolaevich
+  name_source: 'Силин, Николай Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sinelnikov-valeriy-yakovlevich
+  name_source: 'Синельников, Валерий Яковлевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sinitsin-daniil-mihaylovich
+  name_source: 'Синицин, Даниил Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sinchuk-vasiliy-prokofevich
+  name_source: 'Синчук, Василий Прокофьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sihimov-esmurat
+  name_source: 'Сихимов, Есмурат'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: skachkov-viktor-mihaylovich
+  name_source: 'Скачков, Виктор Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sknarev-aleksandr-ilich
+  name_source: 'Скнарев, Александр Ильич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: skorobogatov-anatoliy-markovich
+  name_source: 'Скоробогатов, Анатолий Маркович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: skuridin-ivan-kupriyanovich
+  name_source: 'Скуридин, Иван Куприянович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sobko-maksim-ilich
+  name_source: 'Собко, Максим Ильич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: solomatin-aleksandr
+  name_source: 'Соломатин, Александр'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: soplyakov-mihail-ignatevich
+  name_source: 'Сопляков, Михаил Игнатьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sorokin-andrey-alekseevich
+  name_source: 'Сорокин, Андрей Алексеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: spataev-karsybay
+  name_source: 'Спатаев, Карсыбай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: spirin-vasiliy-romanovich
+  name_source: 'Спирин, Василий Романович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: stepanov-dmitriy-tihonovich
+  name_source: 'Степанов, Дмитрий Тихонович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: strelets-dmitriy-lavrentevich
+  name_source: 'Стрелец, Дмитрий Лаврентьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: strelnikov-efim-semyonovich
+  name_source: 'Стрельников, Ефим Семёнович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: strizhachenko-aleksey-avramovich
+  name_source: 'Стрижаченко, Алексей Аврамович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: suleymenov-zholdas
+  name_source: 'Сулейменов, Жолдас'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sumin-andrey-vasilevich
+  name_source: 'Сумин, Андрей Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: suptel-ivan-ignatevich
+  name_source: 'Суптель, Иван Игнатьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: suraganov-kudaybergen-magzumovich
+  name_source: 'Сураганов, Кудайберген Магзумович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: suhambaev-agadil
+  name_source: 'Сухамбаев, Агадил'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: suschev-stepan-zaharovich
+  name_source: 'Сущев, Степан Захарович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: schastnov-vladimir-mihaylovich
+  name_source: 'Счастнов, Владимир Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: syanov-ilya-yakovlevich
+  name_source: 'Сьянов, Илья Яковлевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tarasenko-vasiliy-fyodorovich
+  name_source: 'Тарасенко, Василий Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: taskulov-kalybay
+  name_source: 'Таскулов, Калыбай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: temirbaev-seythan-nurmuhanbetovich
+  name_source: 'Темирбаев, Сейтхан Нурмуханбетович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: terehin-ivan-dmitrievich
+  name_source: 'Терехин, Иван Дмитриевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: terehin-nikolay
+  name_source: 'Терехин, Николай'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tereschenko-nikolay-vladimirovich
+  name_source: 'Терещенко, Николай Владимирович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: teryaev-pyotr-iosifovich
+  name_source: 'Теряев, Пётр Иосифович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: timofeev-dmitriy-fomich
+  name_source: 'Тимофеев, Дмитрий Фомич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: titkov-ivan-filippovich
+  name_source: 'Титков, Иван Филиппович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tihonenko-andrey-yakovlevich
+  name_source: 'Тихоненко, Андрей Яковлевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tihonov-grigoriy-matveevich
+  name_source: 'Тихонов, Григорий Матвеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tishkanbaev-kozhahmet
+  name_source: 'Тишканбаев, Кожахмет'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tokarev-stepan-kirillovich
+  name_source: 'Токарев, Степан Кириллович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tokataev-rahimzhan
+  name_source: 'Токатаев, Рахимжан'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tokmakov-evgeniy-petrovich
+  name_source: 'Токмаков, Евгений Петрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tolstov-pyotr-egorovich
+  name_source: 'Толстов, Пётр Егорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tomasevich-pyotr-vasilevich
+  name_source: 'Томасевич, Пётр Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: toporkov-ivan-vasilevich
+  name_source: 'Топорков, Иван Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: toropkin-aleksey-georgievich
+  name_source: 'Торопкин, Алексей Георгиевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tohtarov-tulegen
+  name_source: 'Тохтаров, Тулеген'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: toschenko-vikentiy-nikanorovich
+  name_source: 'Тощенко, Викентий Никанорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tryasin-erginingeld-vasilevich
+  name_source: 'Трясин, Ергинингельд Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tugambaev-kadran
+  name_source: 'Тугамбаев, Кадран'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tuktybaev-orman
+  name_source: 'Туктыбаев, Орман'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tulintsev-aleksandr-semyonovich
+  name_source: 'Тулинцев, Александр Семёнович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: turov-fyodor-dementevich
+  name_source: 'Туров, Фёдор Дементьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: turchenko-nikolay-arhipovich
+  name_source: 'Турченко, Николай Архипович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tyulkin-yakov-nikolaevich
+  name_source: 'Тюлькин, Яков Николаевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ulyanin-fyodor-ivanovich
+  name_source: 'Ульянин, Фёдор Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: urazov-ilyas
+  name_source: 'Уразов, Ильяс'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: urakbaev-esen-shegreevich
+  name_source: 'Уракбаев, Есен Шегреевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: urgenshibaev-idris
+  name_source: 'Ургеншибаев, Идрис'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: usenov-abdulla
+  name_source: 'Усенов, Абдулла'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: ufimtsev-sergey-kirillovich
+  name_source: 'Уфимцев, Сергей Кириллович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: uschev-boris-petrovich
+  name_source: 'Ущев, Борис Петрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: fazlaev-nurulla-garifullovich
+  name_source: 'Фазлаев, Нурулла Гарифуллович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: fayazov-mihail-giyasovich
+  name_source: 'Фаязов, Михаил Гиясович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: fonov-nikolay-yakovlevich
+  name_source: 'Фонов, Николай Яковлевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: frolov-mihail-pavlovich
+  name_source: 'Фролов, Михаил Павлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: hakimov-alim
+  name_source: 'Хакимов, Алим'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: harin-mihail-terentevich
+  name_source: 'Харин, Михаил Терентьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: haritonov-nikolay-pavlovich
+  name_source: 'Харитонов, Николай Павлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: harlamov-vasiliy-ilich
+  name_source: 'Харламов, Василий Ильич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: himenko-andrey-maksimovich
+  name_source: 'Хименко, Андрей Максимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: hmelev-pavel-vasilevich
+  name_source: 'Хмелев, Павел Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: horuzhaya-vera-zaharovna
+  name_source: 'Хоружая, Вера Захаровна'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: husainov-ahmediyar
+  name_source: 'Хусаинов, Ахмедияр'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: husanov-ziyamat-usmanovich
+  name_source: 'Хусанов, Зиямат Усманович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: tsitovskiy-efim-grigorevich
+  name_source: 'Цитовский, Ефим Григорьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chebotarev-vasiliy-mihaylovich
+  name_source: 'Чеботарев, Василий Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: cheprasov-mihail-maksimovich
+  name_source: 'Чепрасов, Михаил Максимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: cherkashin-grigoriy-grigorevich
+  name_source: 'Черкашин, Григорий Григорьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chernenko-nikolay-vlasovich
+  name_source: 'Черненко, Николай Власович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chernov-aleksey-ivanovich
+  name_source: 'Чернов, Алексей Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chigadaev-pyotr-vasilevich
+  name_source: 'Чигадаев, Пётр Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chizhikov-filipp-vasilevich
+  name_source: 'Чижиков, Филипп Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chistyakov-ivan-mihaylovich
+  name_source: 'Чистяков, Иван Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chugaev-anatoliy-sergeevich
+  name_source: 'Чугаев, Анатолий Сергеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chuykov-egor-sergeevich
+  name_source: 'Чуйков, Егор Сергеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chumaev-grigoriy-ivanovich
+  name_source: 'Чумаев, Григорий Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: chuntonov-nikolay-grigorevich
+  name_source: 'Чунтонов, Николай Григорьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: churikov-nikolay-stepanovich
+  name_source: 'Чуриков, Николай Степанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: churilin-aleksey-pavlovich
+  name_source: 'Чурилин, Алексей Павлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shadrin-ivan-demidovich
+  name_source: 'Шадрин, Иван Демидович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shakenov-kenzhebek
+  name_source: 'Шакенов, Кенжебек'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shakirov-astankul
+  name_source: 'Шакиров, Астанкул'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shakirov-sadu
+  name_source: 'Шакиров, Саду'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shamshik-nikolay-efimovich
+  name_source: 'Шамшик, Николай Ефимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shapshaev-ivan-leontevich
+  name_source: 'Шапшаев, Иван Леонтьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: sharabarin-nikolay-aleksandrovich
+  name_source: 'Шарабарин, Николай Александрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shatilov-vasiliy-mitrofanovich
+  name_source: 'Шатилов, Василий Митрофанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shahvorostov-sergey-mihaylovich
+  name_source: 'Шахворостов, Сергей Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shevelev-nikolay-semyonovich
+  name_source: 'Шевелев, Николай Семёнович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shevtsov-georgiy-grigorevich
+  name_source: 'Шевцов, Георгий Григорьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shevtsov-pyotr-fyodorovich
+  name_source: 'Шевцов, Пётр Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shelihov-nikolay-stepanovich
+  name_source: 'Шелихов, Николай Степанович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shemyakin-grigoriy-melentevich
+  name_source: 'Шемякин, Григорий Мелентьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shepetkov-ivan-alekseevich
+  name_source: 'Шепетков, Иван Алексеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shestakov-konstantin-konstantinovich
+  name_source: 'Шестаков, Константин Константинович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shilkov-anfilofiy-petrovich
+  name_source: 'Шилков, Анфилофий Петрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shilovskiy-leonid-prokofevich
+  name_source: 'Шиловский, Леонид Прокофьевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shilyaev-fyodor-fyodorovich
+  name_source: 'Шиляев, Фёдор Фёдорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shishlyannikov-viktor-ivanovich
+  name_source: 'Шишлянников, Виктор Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shlyapin-gennadiy-fadeevich
+  name_source: 'Шляпин, Геннадий Фадеевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shtrigol-viktor-mihaylovich
+  name_source: 'Штриголь, Виктор Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shuvalov-konstantin-fomich
+  name_source: 'Шувалов, Константин Фомич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: shulyatikov-vasiliy-aleksandrovich
+  name_source: 'Шулятиков, Василий Александрович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: scherbanev-timofey-karpovich
+  name_source: 'Щербанев, Тимофей Карпович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: schetinin-grigoriy-evdokimovich
+  name_source: 'Щетинин, Григорий Евдокимович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: schurihin-aleksandr-avtomonovich
+  name_source: 'Щурихин, Александр Автомонович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: yuldashev-fayzulla
+  name_source: 'Юлдашев, Файзулла'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: yaglinskiy-mihail-vasilevich
+  name_source: 'Яглинский, Михаил Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: yakubov-maksim-yakubovich
+  name_source: 'Якубов, Максим Якубович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: yamschikov-aleksandr-vasilevich
+  name_source: 'Ямщиков, Александр Васильевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: yanko-mihail-egorovich
+  name_source: 'Янко, Михаил Егорович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: yarotskiy-ivan-mihaylovich
+  name_source: 'Яроцкий, Иван Михайлович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: yastrebinskiy-nikolay-dmitrievich
+  name_source: 'Ястребинский, Николай Дмитриевич'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
+
+- id: yaschenko-nikolay-ivanovich
+  name_source: 'Ященко, Николай Иванович'
+  name_kk: null
+  award: Кеңес Одағының Батыры
+  nationality: анықталмады
+  award_date: анықталмады
+  level: C
+  status: тізімде
